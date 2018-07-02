@@ -1,0 +1,5 @@
+./run-spits-parallel.sh: line 50: 10252 Terminated              ../../$PROGRAM $PPFLAGS ../../$MODULE ../../$SCENE $SUPER_SAMPLES $DEPTH_COMPLEXITY ../../$OUTFILE $WIDTH $HEIGHT
+
+real	0m34.235s
+user	0m0.014s
+sys	0m0.001s

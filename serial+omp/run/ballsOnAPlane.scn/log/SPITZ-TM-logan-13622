@@ -1,0 +1,1125 @@
+2018-07-01 09:21:19,101 - MainThread - DEBUG - Hello!
+2018-07-01 09:21:19,103 - MainThread - INFO - Starting workers...
+2018-07-01 09:21:19,113 - Thread-1 - INFO - Initializing worker...
+2018-07-01 09:21:19,129 - Thread-2 - INFO - Initializing worker...
+2018-07-01 09:21:19,136 - Thread-3 - INFO - Initializing worker...
+2018-07-01 09:21:19,145 - Thread-4 - INFO - Initializing worker...
+2018-07-01 09:21:19,161 - Thread-5 - INFO - Initializing worker...
+2018-07-01 09:21:19,177 - Thread-6 - INFO - Initializing worker...
+2018-07-01 09:21:19,193 - Thread-7 - INFO - Initializing worker...
+2018-07-01 09:21:19,200 - MainThread - INFO - Starting network listener...
+2018-07-01 09:21:19,201 - Thread-8 - INFO - Initializing worker...
+2018-07-01 09:21:19,208 - MainThread - INFO - ANNOUNCE logan:36621
+2018-07-01 09:21:19,209 - MainThread - DEBUG - Adding node logan:36621 to directory nodes...
+2018-07-01 09:21:19,209 - MainThread - INFO - Waiting for work...
+2018-07-01 09:21:19,209 - Thread-9 - INFO - Listening to network at 0.0.0.0:36621...
+2018-07-01 09:21:19,224 - Thread-10 - DEBUG - Connected to 127.0.0.1:37842.
+2018-07-01 09:21:19,272 - Thread-10 - INFO - Received task 1 from 127.0.0.1:37842.
+2018-07-01 09:21:19,273 - Thread-1 - INFO - Processing task 1 from job 1...
+2018-07-01 09:21:19,328 - Thread-10 - INFO - Received task 2 from 127.0.0.1:37842.
+2018-07-01 09:21:19,329 - Thread-2 - INFO - Processing task 2 from job 1...
+2018-07-01 09:21:19,380 - Thread-10 - INFO - Received task 3 from 127.0.0.1:37842.
+2018-07-01 09:21:19,381 - Thread-3 - INFO - Processing task 3 from job 1...
+2018-07-01 09:21:19,436 - Thread-10 - INFO - Received task 4 from 127.0.0.1:37842.
+2018-07-01 09:21:19,437 - Thread-4 - INFO - Processing task 4 from job 1...
+2018-07-01 09:21:19,492 - Thread-10 - INFO - Received task 5 from 127.0.0.1:37842.
+2018-07-01 09:21:19,493 - Thread-5 - INFO - Processing task 5 from job 1...
+2018-07-01 09:21:19,544 - Thread-10 - INFO - Received task 6 from 127.0.0.1:37842.
+2018-07-01 09:21:19,545 - Thread-6 - INFO - Processing task 6 from job 1...
+2018-07-01 09:21:19,596 - Thread-10 - INFO - Received task 7 from 127.0.0.1:37842.
+2018-07-01 09:21:19,597 - Thread-7 - INFO - Processing task 7 from job 1...
+2018-07-01 09:21:19,649 - Thread-10 - INFO - Received task 8 from 127.0.0.1:37842.
+2018-07-01 09:21:19,649 - Thread-8 - INFO - Processing task 8 from job 1...
+2018-07-01 09:21:19,697 - Thread-10 - INFO - Received task 9 from 127.0.0.1:37842.
+2018-07-01 09:21:19,741 - Thread-10 - INFO - Received task 10 from 127.0.0.1:37842.
+2018-07-01 09:21:19,789 - Thread-10 - INFO - Received task 11 from 127.0.0.1:37842.
+2018-07-01 09:21:19,836 - Thread-10 - INFO - Received task 12 from 127.0.0.1:37842.
+2018-07-01 09:21:19,884 - Thread-10 - INFO - Received task 13 from 127.0.0.1:37842.
+2018-07-01 09:21:19,929 - Thread-10 - INFO - Received task 14 from 127.0.0.1:37842.
+2018-07-01 09:21:19,972 - Thread-10 - INFO - Received task 15 from 127.0.0.1:37842.
+2018-07-01 09:21:20,017 - Thread-10 - INFO - Received task 16 from 127.0.0.1:37842.
+2018-07-01 09:21:20,065 - Thread-10 - INFO - Received task 17 from 127.0.0.1:37842.
+2018-07-01 09:21:20,109 - Thread-10 - INFO - Received task 18 from 127.0.0.1:37842.
+2018-07-01 09:21:20,109 - Thread-10 - DEBUG - Connection to 127.0.0.1:37842 closed.
+2018-07-01 09:21:20,120 - Thread-11 - DEBUG - Connected to 127.0.0.1:37920.
+2018-07-01 09:21:20,121 - Thread-11 - DEBUG - Connection to 127.0.0.1:37920 closed.
+2018-07-01 09:21:20,136 - Thread-12 - DEBUG - Connected to 127.0.0.1:37922.
+2018-07-01 09:21:20,137 - Thread-12 - DEBUG - Connection to 127.0.0.1:37922 closed.
+2018-07-01 09:21:20,148 - Thread-13 - DEBUG - Connected to 127.0.0.1:37924.
+2018-07-01 09:21:20,149 - Thread-13 - DEBUG - Connection to 127.0.0.1:37924 closed.
+2018-07-01 09:21:20,164 - Thread-14 - DEBUG - Connected to 127.0.0.1:37926.
+2018-07-01 09:21:20,166 - Thread-14 - DEBUG - Connection to 127.0.0.1:37926 closed.
+2018-07-01 09:21:20,176 - Thread-15 - DEBUG - Connected to 127.0.0.1:37928.
+2018-07-01 09:21:20,177 - Thread-15 - DEBUG - Connection to 127.0.0.1:37928 closed.
+2018-07-01 09:21:20,188 - Thread-16 - DEBUG - Connected to 127.0.0.1:37930.
+2018-07-01 09:21:20,189 - Thread-16 - DEBUG - Connection to 127.0.0.1:37930 closed.
+2018-07-01 09:21:20,200 - Thread-17 - DEBUG - Connected to 127.0.0.1:37932.
+2018-07-01 09:21:20,201 - Thread-17 - DEBUG - Connection to 127.0.0.1:37932 closed.
+2018-07-01 09:21:20,209 - Thread-18 - DEBUG - Connected to 127.0.0.1:37934.
+2018-07-01 09:21:20,210 - Thread-18 - DEBUG - Connection to 127.0.0.1:37934 closed.
+2018-07-01 09:21:20,224 - Thread-19 - DEBUG - Connected to 127.0.0.1:37936.
+2018-07-01 09:21:20,225 - Thread-19 - DEBUG - Connection to 127.0.0.1:37936 closed.
+2018-07-01 09:21:20,236 - Thread-20 - DEBUG - Connected to 127.0.0.1:37938.
+2018-07-01 09:21:20,237 - Thread-20 - DEBUG - Connection to 127.0.0.1:37938 closed.
+2018-07-01 09:21:20,248 - Thread-21 - DEBUG - Connected to 127.0.0.1:37940.
+2018-07-01 09:21:20,249 - Thread-21 - DEBUG - Connection to 127.0.0.1:37940 closed.
+2018-07-01 09:21:20,260 - Thread-22 - DEBUG - Connected to 127.0.0.1:37942.
+2018-07-01 09:21:20,261 - Thread-22 - DEBUG - Connection to 127.0.0.1:37942 closed.
+2018-07-01 09:21:20,272 - Thread-23 - DEBUG - Connected to 127.0.0.1:37944.
+2018-07-01 09:21:20,273 - Thread-23 - DEBUG - Connection to 127.0.0.1:37944 closed.
+2018-07-01 09:21:20,284 - Thread-24 - DEBUG - Connected to 127.0.0.1:37946.
+2018-07-01 09:21:20,296 - Thread-24 - DEBUG - Connection to 127.0.0.1:37946 closed.
+2018-07-01 09:21:20,297 - Thread-25 - DEBUG - Connected to 127.0.0.1:37948.
+2018-07-01 09:21:20,297 - Thread-25 - DEBUG - Connection to 127.0.0.1:37948 closed.
+2018-07-01 09:21:20,304 - Thread-26 - DEBUG - Connected to 127.0.0.1:37950.
+2018-07-01 09:21:20,305 - Thread-26 - DEBUG - Connection to 127.0.0.1:37950 closed.
+2018-07-01 09:21:20,336 - Thread-27 - DEBUG - Connected to 127.0.0.1:37952.
+2018-07-01 09:21:20,338 - Thread-27 - DEBUG - Connection to 127.0.0.1:37952 closed.
+2018-07-01 09:21:20,352 - Thread-28 - DEBUG - Connected to 127.0.0.1:37954.
+2018-07-01 09:21:20,353 - Thread-28 - DEBUG - Connection to 127.0.0.1:37954 closed.
+2018-07-01 09:21:20,364 - Thread-29 - DEBUG - Connected to 127.0.0.1:37956.
+2018-07-01 09:21:20,365 - Thread-29 - DEBUG - Connection to 127.0.0.1:37956 closed.
+2018-07-01 09:21:20,376 - Thread-30 - DEBUG - Connected to 127.0.0.1:37958.
+2018-07-01 09:21:20,377 - Thread-30 - DEBUG - Connection to 127.0.0.1:37958 closed.
+2018-07-01 09:21:20,388 - Thread-31 - DEBUG - Connected to 127.0.0.1:37960.
+2018-07-01 09:21:20,389 - Thread-31 - DEBUG - Connection to 127.0.0.1:37960 closed.
+2018-07-01 09:21:20,400 - Thread-32 - DEBUG - Connected to 127.0.0.1:37962.
+2018-07-01 09:21:20,401 - Thread-32 - DEBUG - Connection to 127.0.0.1:37962 closed.
+2018-07-01 09:21:20,401 - Thread-33 - DEBUG - Connected to 127.0.0.1:37964.
+2018-07-01 09:21:20,417 - Thread-33 - DEBUG - Connection to 127.0.0.1:37964 closed.
+2018-07-01 09:21:20,418 - Thread-34 - DEBUG - Connected to 127.0.0.1:37966.
+2018-07-01 09:21:20,418 - Thread-34 - DEBUG - Connection to 127.0.0.1:37966 closed.
+2018-07-01 09:21:20,418 - Thread-35 - DEBUG - Connected to 127.0.0.1:37968.
+2018-07-01 09:21:20,419 - Thread-35 - DEBUG - Connection to 127.0.0.1:37968 closed.
+2018-07-01 09:21:20,432 - Thread-36 - DEBUG - Connected to 127.0.0.1:37970.
+2018-07-01 09:21:20,433 - Thread-36 - DEBUG - Connection to 127.0.0.1:37970 closed.
+2018-07-01 09:21:20,433 - Thread-37 - DEBUG - Connected to 127.0.0.1:37972.
+2018-07-01 09:21:20,434 - Thread-37 - DEBUG - Connection to 127.0.0.1:37972 closed.
+2018-07-01 09:21:20,448 - Thread-38 - DEBUG - Connected to 127.0.0.1:37974.
+2018-07-01 09:21:20,449 - Thread-38 - DEBUG - Connection to 127.0.0.1:37974 closed.
+2018-07-01 09:21:20,450 - Thread-39 - DEBUG - Connected to 127.0.0.1:37976.
+2018-07-01 09:21:20,450 - Thread-39 - DEBUG - Connection to 127.0.0.1:37976 closed.
+2018-07-01 09:21:20,464 - Thread-40 - DEBUG - Connected to 127.0.0.1:37978.
+2018-07-01 09:21:20,465 - Thread-40 - DEBUG - Connection to 127.0.0.1:37978 closed.
+2018-07-01 09:21:20,465 - Thread-41 - DEBUG - Connected to 127.0.0.1:37980.
+2018-07-01 09:21:20,466 - Thread-41 - DEBUG - Connection to 127.0.0.1:37980 closed.
+2018-07-01 09:21:20,466 - Thread-42 - DEBUG - Connected to 127.0.0.1:37982.
+2018-07-01 09:21:20,467 - Thread-42 - DEBUG - Connection to 127.0.0.1:37982 closed.
+2018-07-01 09:21:20,476 - Thread-43 - DEBUG - Connected to 127.0.0.1:37984.
+2018-07-01 09:21:20,477 - Thread-43 - DEBUG - Connection to 127.0.0.1:37984 closed.
+2018-07-01 09:21:20,484 - Thread-44 - DEBUG - Connected to 127.0.0.1:37986.
+2018-07-01 09:21:20,485 - Thread-44 - DEBUG - Connection to 127.0.0.1:37986 closed.
+2018-07-01 09:21:20,500 - Thread-45 - DEBUG - Connected to 127.0.0.1:37988.
+2018-07-01 09:21:20,501 - Thread-45 - DEBUG - Connection to 127.0.0.1:37988 closed.
+2018-07-01 09:21:20,502 - Thread-46 - DEBUG - Connected to 127.0.0.1:37990.
+2018-07-01 09:21:20,502 - Thread-46 - DEBUG - Connection to 127.0.0.1:37990 closed.
+2018-07-01 09:21:20,503 - Thread-47 - DEBUG - Connected to 127.0.0.1:37992.
+2018-07-01 09:21:20,503 - Thread-47 - DEBUG - Connection to 127.0.0.1:37992 closed.
+2018-07-01 09:21:20,516 - Thread-48 - DEBUG - Connected to 127.0.0.1:37994.
+2018-07-01 09:21:20,517 - Thread-48 - DEBUG - Connection to 127.0.0.1:37994 closed.
+2018-07-01 09:21:20,518 - Thread-49 - DEBUG - Connected to 127.0.0.1:37996.
+2018-07-01 09:21:20,518 - Thread-49 - DEBUG - Connection to 127.0.0.1:37996 closed.
+2018-07-01 09:21:20,524 - Thread-50 - DEBUG - Connected to 127.0.0.1:37998.
+2018-07-01 09:21:20,525 - Thread-50 - DEBUG - Connection to 127.0.0.1:37998 closed.
+2018-07-01 09:21:20,540 - Thread-51 - DEBUG - Connected to 127.0.0.1:38000.
+2018-07-01 09:21:20,541 - Thread-51 - DEBUG - Connection to 127.0.0.1:38000 closed.
+2018-07-01 09:21:20,541 - Thread-52 - DEBUG - Connected to 127.0.0.1:38002.
+2018-07-01 09:21:20,542 - Thread-52 - DEBUG - Connection to 127.0.0.1:38002 closed.
+2018-07-01 09:21:20,556 - Thread-53 - DEBUG - Connected to 127.0.0.1:38004.
+2018-07-01 09:21:20,557 - Thread-53 - DEBUG - Connection to 127.0.0.1:38004 closed.
+2018-07-01 09:21:20,557 - Thread-54 - DEBUG - Connected to 127.0.0.1:38006.
+2018-07-01 09:21:20,558 - Thread-54 - DEBUG - Connection to 127.0.0.1:38006 closed.
+2018-07-01 09:21:20,572 - Thread-55 - DEBUG - Connected to 127.0.0.1:38008.
+2018-07-01 09:21:20,574 - Thread-55 - DEBUG - Connection to 127.0.0.1:38008 closed.
+2018-07-01 09:21:20,574 - Thread-56 - DEBUG - Connected to 127.0.0.1:38010.
+2018-07-01 09:21:20,574 - Thread-56 - DEBUG - Connection to 127.0.0.1:38010 closed.
+2018-07-01 09:21:20,575 - Thread-57 - DEBUG - Connected to 127.0.0.1:38012.
+2018-07-01 09:21:20,575 - Thread-57 - DEBUG - Connection to 127.0.0.1:38012 closed.
+2018-07-01 09:21:20,592 - Thread-58 - DEBUG - Connected to 127.0.0.1:38014.
+2018-07-01 09:21:20,593 - Thread-58 - DEBUG - Connection to 127.0.0.1:38014 closed.
+2018-07-01 09:21:20,594 - Thread-59 - DEBUG - Connected to 127.0.0.1:38016.
+2018-07-01 09:21:20,594 - Thread-59 - DEBUG - Connection to 127.0.0.1:38016 closed.
+2018-07-01 09:21:20,608 - Thread-60 - DEBUG - Connected to 127.0.0.1:38018.
+2018-07-01 09:21:20,609 - Thread-60 - DEBUG - Connection to 127.0.0.1:38018 closed.
+2018-07-01 09:21:20,609 - Thread-61 - DEBUG - Connected to 127.0.0.1:38020.
+2018-07-01 09:21:20,610 - Thread-61 - DEBUG - Connection to 127.0.0.1:38020 closed.
+2018-07-01 09:21:20,610 - Thread-62 - DEBUG - Connected to 127.0.0.1:38022.
+2018-07-01 09:21:20,611 - Thread-62 - DEBUG - Connection to 127.0.0.1:38022 closed.
+2018-07-01 09:21:20,624 - Thread-63 - DEBUG - Connected to 127.0.0.1:38024.
+2018-07-01 09:21:20,625 - Thread-63 - DEBUG - Connection to 127.0.0.1:38024 closed.
+2018-07-01 09:21:20,625 - Thread-64 - DEBUG - Connected to 127.0.0.1:38026.
+2018-07-01 09:21:20,626 - Thread-64 - DEBUG - Connection to 127.0.0.1:38026 closed.
+2018-07-01 09:21:20,632 - Thread-65 - DEBUG - Connected to 127.0.0.1:38028.
+2018-07-01 09:21:20,633 - Thread-65 - DEBUG - Connection to 127.0.0.1:38028 closed.
+2018-07-01 09:21:20,640 - Thread-66 - DEBUG - Connected to 127.0.0.1:38030.
+2018-07-01 09:21:20,641 - Thread-66 - DEBUG - Connection to 127.0.0.1:38030 closed.
+2018-07-01 09:21:20,656 - Thread-67 - DEBUG - Connected to 127.0.0.1:38032.
+2018-07-01 09:21:20,657 - Thread-67 - DEBUG - Connection to 127.0.0.1:38032 closed.
+2018-07-01 09:21:20,657 - Thread-68 - DEBUG - Connected to 127.0.0.1:38034.
+2018-07-01 09:21:20,657 - Thread-68 - DEBUG - Connection to 127.0.0.1:38034 closed.
+2018-07-01 09:21:20,672 - Thread-69 - DEBUG - Connected to 127.0.0.1:38036.
+2018-07-01 09:21:20,673 - Thread-69 - DEBUG - Connection to 127.0.0.1:38036 closed.
+2018-07-01 09:21:20,674 - Thread-70 - DEBUG - Connected to 127.0.0.1:38038.
+2018-07-01 09:21:20,674 - Thread-70 - DEBUG - Connection to 127.0.0.1:38038 closed.
+2018-07-01 09:21:20,674 - Thread-71 - DEBUG - Connected to 127.0.0.1:38040.
+2018-07-01 09:21:20,689 - Thread-71 - DEBUG - Connection to 127.0.0.1:38040 closed.
+2018-07-01 09:21:20,689 - Thread-72 - DEBUG - Connected to 127.0.0.1:38042.
+2018-07-01 09:21:20,690 - Thread-72 - DEBUG - Connection to 127.0.0.1:38042 closed.
+2018-07-01 09:21:20,690 - Thread-73 - DEBUG - Connected to 127.0.0.1:38044.
+2018-07-01 09:21:20,691 - Thread-73 - DEBUG - Connection to 127.0.0.1:38044 closed.
+2018-07-01 09:21:20,704 - Thread-74 - DEBUG - Connected to 127.0.0.1:38046.
+2018-07-01 09:21:20,705 - Thread-74 - DEBUG - Connection to 127.0.0.1:38046 closed.
+2018-07-01 09:21:20,706 - Thread-75 - DEBUG - Connected to 127.0.0.1:38048.
+2018-07-01 09:21:20,706 - Thread-75 - DEBUG - Connection to 127.0.0.1:38048 closed.
+2018-07-01 09:21:20,720 - Thread-76 - DEBUG - Connected to 127.0.0.1:38050.
+2018-07-01 09:21:20,721 - Thread-76 - DEBUG - Connection to 127.0.0.1:38050 closed.
+2018-07-01 09:21:20,722 - Thread-77 - DEBUG - Connected to 127.0.0.1:38052.
+2018-07-01 09:21:20,722 - Thread-77 - DEBUG - Connection to 127.0.0.1:38052 closed.
+2018-07-01 09:21:20,736 - Thread-78 - DEBUG - Connected to 127.0.0.1:38054.
+2018-07-01 09:21:20,737 - Thread-78 - DEBUG - Connection to 127.0.0.1:38054 closed.
+2018-07-01 09:21:20,737 - Thread-79 - DEBUG - Connected to 127.0.0.1:38056.
+2018-07-01 09:21:20,738 - Thread-79 - DEBUG - Connection to 127.0.0.1:38056 closed.
+2018-07-01 09:21:20,752 - Thread-80 - DEBUG - Connected to 127.0.0.1:38058.
+2018-07-01 09:21:20,753 - Thread-80 - DEBUG - Connection to 127.0.0.1:38058 closed.
+2018-07-01 09:21:20,753 - Thread-81 - DEBUG - Connected to 127.0.0.1:38060.
+2018-07-01 09:21:20,754 - Thread-81 - DEBUG - Connection to 127.0.0.1:38060 closed.
+2018-07-01 09:21:20,754 - Thread-82 - DEBUG - Connected to 127.0.0.1:38062.
+2018-07-01 09:21:20,755 - Thread-82 - DEBUG - Connection to 127.0.0.1:38062 closed.
+2018-07-01 09:21:20,768 - Thread-83 - DEBUG - Connected to 127.0.0.1:38064.
+2018-07-01 09:21:20,769 - Thread-83 - DEBUG - Connection to 127.0.0.1:38064 closed.
+2018-07-01 09:21:20,769 - Thread-84 - DEBUG - Connected to 127.0.0.1:38066.
+2018-07-01 09:21:20,770 - Thread-84 - DEBUG - Connection to 127.0.0.1:38066 closed.
+2018-07-01 09:21:20,776 - Thread-85 - DEBUG - Connected to 127.0.0.1:38068.
+2018-07-01 09:21:20,777 - Thread-85 - DEBUG - Connection to 127.0.0.1:38068 closed.
+2018-07-01 09:21:20,784 - Thread-86 - DEBUG - Connected to 127.0.0.1:38070.
+2018-07-01 09:21:20,785 - Thread-86 - DEBUG - Connection to 127.0.0.1:38070 closed.
+2018-07-01 09:21:20,800 - Thread-87 - DEBUG - Connected to 127.0.0.1:38072.
+2018-07-01 09:21:20,801 - Thread-87 - DEBUG - Connection to 127.0.0.1:38072 closed.
+2018-07-01 09:21:20,801 - Thread-88 - DEBUG - Connected to 127.0.0.1:38074.
+2018-07-01 09:21:20,802 - Thread-88 - DEBUG - Connection to 127.0.0.1:38074 closed.
+2018-07-01 09:21:20,816 - Thread-89 - DEBUG - Connected to 127.0.0.1:38076.
+2018-07-01 09:21:20,817 - Thread-89 - DEBUG - Connection to 127.0.0.1:38076 closed.
+2018-07-01 09:21:20,817 - Thread-90 - DEBUG - Connected to 127.0.0.1:38078.
+2018-07-01 09:21:20,818 - Thread-90 - DEBUG - Connection to 127.0.0.1:38078 closed.
+2018-07-01 09:21:20,818 - Thread-91 - DEBUG - Connected to 127.0.0.1:38080.
+2018-07-01 09:21:20,819 - Thread-91 - DEBUG - Connection to 127.0.0.1:38080 closed.
+2018-07-01 09:21:20,832 - Thread-92 - DEBUG - Connected to 127.0.0.1:38082.
+2018-07-01 09:21:20,833 - Thread-92 - DEBUG - Connection to 127.0.0.1:38082 closed.
+2018-07-01 09:21:20,833 - Thread-93 - DEBUG - Connected to 127.0.0.1:38084.
+2018-07-01 09:21:20,834 - Thread-93 - DEBUG - Connection to 127.0.0.1:38084 closed.
+2018-07-01 09:21:20,848 - Thread-94 - DEBUG - Connected to 127.0.0.1:38086.
+2018-07-01 09:21:20,849 - Thread-94 - DEBUG - Connection to 127.0.0.1:38086 closed.
+2018-07-01 09:21:20,849 - Thread-95 - DEBUG - Connected to 127.0.0.1:38088.
+2018-07-01 09:21:20,850 - Thread-95 - DEBUG - Connection to 127.0.0.1:38088 closed.
+2018-07-01 09:21:20,864 - Thread-96 - DEBUG - Connected to 127.0.0.1:38090.
+2018-07-01 09:21:20,865 - Thread-96 - DEBUG - Connection to 127.0.0.1:38090 closed.
+2018-07-01 09:21:20,865 - Thread-97 - DEBUG - Connected to 127.0.0.1:38092.
+2018-07-01 09:21:20,866 - Thread-97 - DEBUG - Connection to 127.0.0.1:38092 closed.
+2018-07-01 09:21:20,880 - Thread-98 - DEBUG - Connected to 127.0.0.1:38094.
+2018-07-01 09:21:20,881 - Thread-98 - DEBUG - Connection to 127.0.0.1:38094 closed.
+2018-07-01 09:21:20,882 - Thread-99 - DEBUG - Connected to 127.0.0.1:38096.
+2018-07-01 09:21:20,882 - Thread-99 - DEBUG - Connection to 127.0.0.1:38096 closed.
+2018-07-01 09:21:20,883 - Thread-100 - DEBUG - Connected to 127.0.0.1:38098.
+2018-07-01 09:21:20,883 - Thread-100 - DEBUG - Connection to 127.0.0.1:38098 closed.
+2018-07-01 09:21:20,896 - Thread-101 - DEBUG - Connected to 127.0.0.1:38100.
+2018-07-01 09:21:20,897 - Thread-101 - DEBUG - Connection to 127.0.0.1:38100 closed.
+2018-07-01 09:21:20,897 - Thread-102 - DEBUG - Connected to 127.0.0.1:38102.
+2018-07-01 09:21:20,898 - Thread-102 - DEBUG - Connection to 127.0.0.1:38102 closed.
+2018-07-01 09:21:20,912 - Thread-103 - DEBUG - Connected to 127.0.0.1:38104.
+2018-07-01 09:21:20,913 - Thread-103 - DEBUG - Connection to 127.0.0.1:38104 closed.
+2018-07-01 09:21:20,913 - Thread-104 - DEBUG - Connected to 127.0.0.1:38106.
+2018-07-01 09:21:20,914 - Thread-104 - DEBUG - Connection to 127.0.0.1:38106 closed.
+2018-07-01 09:21:20,928 - Thread-105 - DEBUG - Connected to 127.0.0.1:38108.
+2018-07-01 09:21:20,929 - Thread-105 - DEBUG - Connection to 127.0.0.1:38108 closed.
+2018-07-01 09:21:20,929 - Thread-106 - DEBUG - Connected to 127.0.0.1:38110.
+2018-07-01 09:21:20,930 - Thread-106 - DEBUG - Connection to 127.0.0.1:38110 closed.
+2018-07-01 09:21:20,944 - Thread-107 - DEBUG - Connected to 127.0.0.1:38112.
+2018-07-01 09:21:20,945 - Thread-107 - DEBUG - Connection to 127.0.0.1:38112 closed.
+2018-07-01 09:21:20,945 - Thread-108 - DEBUG - Connected to 127.0.0.1:38114.
+2018-07-01 09:21:20,946 - Thread-108 - DEBUG - Connection to 127.0.0.1:38114 closed.
+2018-07-01 09:21:20,946 - Thread-109 - DEBUG - Connected to 127.0.0.1:38116.
+2018-07-01 09:21:20,947 - Thread-109 - DEBUG - Connection to 127.0.0.1:38116 closed.
+2018-07-01 09:21:20,960 - Thread-110 - DEBUG - Connected to 127.0.0.1:38118.
+2018-07-01 09:21:20,961 - Thread-110 - DEBUG - Connection to 127.0.0.1:38118 closed.
+2018-07-01 09:21:20,962 - Thread-111 - DEBUG - Connected to 127.0.0.1:38120.
+2018-07-01 09:21:20,962 - Thread-111 - DEBUG - Connection to 127.0.0.1:38120 closed.
+2018-07-01 09:21:20,976 - Thread-112 - DEBUG - Connected to 127.0.0.1:38122.
+2018-07-01 09:21:20,977 - Thread-112 - DEBUG - Connection to 127.0.0.1:38122 closed.
+2018-07-01 09:21:20,977 - Thread-113 - DEBUG - Connected to 127.0.0.1:38124.
+2018-07-01 09:21:20,978 - Thread-113 - DEBUG - Connection to 127.0.0.1:38124 closed.
+2018-07-01 09:21:20,992 - Thread-114 - DEBUG - Connected to 127.0.0.1:38126.
+2018-07-01 09:21:20,993 - Thread-114 - DEBUG - Connection to 127.0.0.1:38126 closed.
+2018-07-01 09:21:20,994 - Thread-115 - DEBUG - Connected to 127.0.0.1:38128.
+2018-07-01 09:21:20,994 - Thread-115 - DEBUG - Connection to 127.0.0.1:38128 closed.
+2018-07-01 09:21:21,008 - Thread-116 - DEBUG - Connected to 127.0.0.1:38130.
+2018-07-01 09:21:21,009 - Thread-116 - DEBUG - Connection to 127.0.0.1:38130 closed.
+2018-07-01 09:21:21,010 - Thread-117 - DEBUG - Connected to 127.0.0.1:38132.
+2018-07-01 09:21:21,010 - Thread-117 - DEBUG - Connection to 127.0.0.1:38132 closed.
+2018-07-01 09:21:21,024 - Thread-118 - DEBUG - Connected to 127.0.0.1:38134.
+2018-07-01 09:21:21,025 - Thread-118 - DEBUG - Connection to 127.0.0.1:38134 closed.
+2018-07-01 09:21:21,025 - Thread-119 - DEBUG - Connected to 127.0.0.1:38136.
+2018-07-01 09:21:21,026 - Thread-119 - DEBUG - Connection to 127.0.0.1:38136 closed.
+2018-07-01 09:21:21,026 - Thread-120 - DEBUG - Connected to 127.0.0.1:38138.
+2018-07-01 09:21:21,027 - Thread-120 - DEBUG - Connection to 127.0.0.1:38138 closed.
+2018-07-01 09:21:21,040 - Thread-121 - DEBUG - Connected to 127.0.0.1:38140.
+2018-07-01 09:21:21,041 - Thread-121 - DEBUG - Connection to 127.0.0.1:38140 closed.
+2018-07-01 09:21:21,041 - Thread-122 - DEBUG - Connected to 127.0.0.1:38142.
+2018-07-01 09:21:21,042 - Thread-122 - DEBUG - Connection to 127.0.0.1:38142 closed.
+2018-07-01 09:21:21,064 - Thread-123 - DEBUG - Connected to 127.0.0.1:38144.
+2018-07-01 09:21:21,066 - Thread-123 - DEBUG - Connection to 127.0.0.1:38144 closed.
+2018-07-01 09:21:21,072 - Thread-124 - DEBUG - Connected to 127.0.0.1:38146.
+2018-07-01 09:21:21,073 - Thread-124 - DEBUG - Connection to 127.0.0.1:38146 closed.
+2018-07-01 09:21:21,088 - Thread-125 - DEBUG - Connected to 127.0.0.1:38148.
+2018-07-01 09:21:21,089 - Thread-125 - DEBUG - Connection to 127.0.0.1:38148 closed.
+2018-07-01 09:21:21,089 - Thread-126 - DEBUG - Connected to 127.0.0.1:38150.
+2018-07-01 09:21:21,090 - Thread-126 - DEBUG - Connection to 127.0.0.1:38150 closed.
+2018-07-01 09:21:21,104 - Thread-127 - DEBUG - Connected to 127.0.0.1:38152.
+2018-07-01 09:21:21,105 - Thread-127 - DEBUG - Connection to 127.0.0.1:38152 closed.
+2018-07-01 09:21:21,105 - Thread-128 - DEBUG - Connected to 127.0.0.1:38154.
+2018-07-01 09:21:21,106 - Thread-128 - DEBUG - Connection to 127.0.0.1:38154 closed.
+2018-07-01 09:21:21,106 - Thread-129 - DEBUG - Connected to 127.0.0.1:38156.
+2018-07-01 09:21:21,121 - Thread-129 - DEBUG - Connection to 127.0.0.1:38156 closed.
+2018-07-01 09:21:21,122 - Thread-130 - DEBUG - Connected to 127.0.0.1:38158.
+2018-07-01 09:21:21,122 - Thread-130 - DEBUG - Connection to 127.0.0.1:38158 closed.
+2018-07-01 09:21:21,123 - Thread-131 - DEBUG - Connected to 127.0.0.1:38160.
+2018-07-01 09:21:21,123 - Thread-131 - DEBUG - Connection to 127.0.0.1:38160 closed.
+2018-07-01 09:21:21,136 - Thread-132 - DEBUG - Connected to 127.0.0.1:38162.
+2018-07-01 09:21:21,137 - Thread-132 - DEBUG - Connection to 127.0.0.1:38162 closed.
+2018-07-01 09:21:21,138 - Thread-133 - DEBUG - Connected to 127.0.0.1:38164.
+2018-07-01 09:21:21,138 - Thread-133 - DEBUG - Connection to 127.0.0.1:38164 closed.
+2018-07-01 09:21:21,152 - Thread-134 - DEBUG - Connected to 127.0.0.1:38166.
+2018-07-01 09:21:21,153 - Thread-134 - DEBUG - Connection to 127.0.0.1:38166 closed.
+2018-07-01 09:21:21,154 - Thread-135 - DEBUG - Connected to 127.0.0.1:38168.
+2018-07-01 09:21:21,154 - Thread-135 - DEBUG - Connection to 127.0.0.1:38168 closed.
+2018-07-01 09:21:21,168 - Thread-136 - DEBUG - Connected to 127.0.0.1:38170.
+2018-07-01 09:21:21,169 - Thread-136 - DEBUG - Connection to 127.0.0.1:38170 closed.
+2018-07-01 09:21:21,170 - Thread-137 - DEBUG - Connected to 127.0.0.1:38172.
+2018-07-01 09:21:21,170 - Thread-137 - DEBUG - Connection to 127.0.0.1:38172 closed.
+2018-07-01 09:21:21,184 - Thread-138 - DEBUG - Connected to 127.0.0.1:38174.
+2018-07-01 09:21:21,185 - Thread-138 - DEBUG - Connection to 127.0.0.1:38174 closed.
+2018-07-01 09:21:21,201 - Thread-139 - DEBUG - Connected to 127.0.0.1:38176.
+2018-07-01 09:21:21,201 - Thread-139 - DEBUG - Connection to 127.0.0.1:38176 closed.
+2018-07-01 09:21:21,208 - Thread-140 - DEBUG - Connected to 127.0.0.1:38178.
+2018-07-01 09:21:21,209 - Thread-140 - DEBUG - Connection to 127.0.0.1:38178 closed.
+2018-07-01 09:21:21,224 - Thread-141 - DEBUG - Connected to 127.0.0.1:38180.
+2018-07-01 09:21:21,226 - Thread-141 - DEBUG - Connection to 127.0.0.1:38180 closed.
+2018-07-01 09:21:21,226 - Thread-142 - DEBUG - Connected to 127.0.0.1:38182.
+2018-07-01 09:21:21,226 - Thread-142 - DEBUG - Connection to 127.0.0.1:38182 closed.
+2018-07-01 09:21:21,240 - Thread-143 - DEBUG - Connected to 127.0.0.1:38184.
+2018-07-01 09:21:21,241 - Thread-143 - DEBUG - Connection to 127.0.0.1:38184 closed.
+2018-07-01 09:21:21,242 - Thread-144 - DEBUG - Connected to 127.0.0.1:38186.
+2018-07-01 09:21:21,242 - Thread-144 - DEBUG - Connection to 127.0.0.1:38186 closed.
+2018-07-01 09:21:21,242 - Thread-145 - DEBUG - Connected to 127.0.0.1:38188.
+2018-07-01 09:21:21,243 - Thread-145 - DEBUG - Connection to 127.0.0.1:38188 closed.
+2018-07-01 09:21:21,256 - Thread-146 - DEBUG - Connected to 127.0.0.1:38190.
+2018-07-01 09:21:21,257 - Thread-146 - DEBUG - Connection to 127.0.0.1:38190 closed.
+2018-07-01 09:21:21,272 - Thread-147 - DEBUG - Connected to 127.0.0.1:38192.
+2018-07-01 09:21:21,273 - Thread-147 - DEBUG - Connection to 127.0.0.1:38192 closed.
+2018-07-01 09:21:21,274 - Thread-148 - DEBUG - Connected to 127.0.0.1:38194.
+2018-07-01 09:21:21,274 - Thread-148 - DEBUG - Connection to 127.0.0.1:38194 closed.
+2018-07-01 09:21:21,274 - Thread-149 - DEBUG - Connected to 127.0.0.1:38196.
+2018-07-01 09:21:21,275 - Thread-149 - DEBUG - Connection to 127.0.0.1:38196 closed.
+2018-07-01 09:21:21,288 - Thread-150 - DEBUG - Connected to 127.0.0.1:38198.
+2018-07-01 09:21:21,289 - Thread-150 - DEBUG - Connection to 127.0.0.1:38198 closed.
+2018-07-01 09:21:21,289 - Thread-151 - DEBUG - Connected to 127.0.0.1:38200.
+2018-07-01 09:21:21,290 - Thread-151 - DEBUG - Connection to 127.0.0.1:38200 closed.
+2018-07-01 09:21:21,304 - Thread-152 - DEBUG - Connected to 127.0.0.1:38202.
+2018-07-01 09:21:21,305 - Thread-152 - DEBUG - Connection to 127.0.0.1:38202 closed.
+2018-07-01 09:21:21,305 - Thread-153 - DEBUG - Connected to 127.0.0.1:38204.
+2018-07-01 09:21:21,306 - Thread-153 - DEBUG - Connection to 127.0.0.1:38204 closed.
+2018-07-01 09:21:21,310 - Thread-154 - DEBUG - Connected to 127.0.0.1:38206.
+2018-07-01 09:21:21,311 - Thread-154 - DEBUG - Connection to 127.0.0.1:38206 closed.
+2018-07-01 09:21:21,320 - Thread-155 - DEBUG - Connected to 127.0.0.1:38208.
+2018-07-01 09:21:21,321 - Thread-155 - DEBUG - Connection to 127.0.0.1:38208 closed.
+2018-07-01 09:21:21,336 - Thread-156 - DEBUG - Connected to 127.0.0.1:38210.
+2018-07-01 09:21:21,337 - Thread-156 - DEBUG - Connection to 127.0.0.1:38210 closed.
+2018-07-01 09:21:21,337 - Thread-157 - DEBUG - Connected to 127.0.0.1:38212.
+2018-07-01 09:21:21,338 - Thread-157 - DEBUG - Connection to 127.0.0.1:38212 closed.
+2018-07-01 09:21:21,338 - Thread-158 - DEBUG - Connected to 127.0.0.1:38214.
+2018-07-01 09:21:21,339 - Thread-158 - DEBUG - Connection to 127.0.0.1:38214 closed.
+2018-07-01 09:21:21,352 - Thread-159 - DEBUG - Connected to 127.0.0.1:38216.
+2018-07-01 09:21:21,353 - Thread-159 - DEBUG - Connection to 127.0.0.1:38216 closed.
+2018-07-01 09:21:21,353 - Thread-160 - DEBUG - Connected to 127.0.0.1:38218.
+2018-07-01 09:21:21,354 - Thread-160 - DEBUG - Connection to 127.0.0.1:38218 closed.
+2018-07-01 09:21:21,368 - Thread-161 - DEBUG - Connected to 127.0.0.1:38220.
+2018-07-01 09:21:21,369 - Thread-161 - DEBUG - Connection to 127.0.0.1:38220 closed.
+2018-07-01 09:21:21,369 - Thread-162 - DEBUG - Connected to 127.0.0.1:38222.
+2018-07-01 09:21:21,370 - Thread-162 - DEBUG - Connection to 127.0.0.1:38222 closed.
+2018-07-01 09:21:21,384 - Thread-163 - DEBUG - Connected to 127.0.0.1:38224.
+2018-07-01 09:21:21,385 - Thread-163 - DEBUG - Connection to 127.0.0.1:38224 closed.
+2018-07-01 09:21:21,392 - Thread-164 - DEBUG - Connected to 127.0.0.1:38226.
+2018-07-01 09:21:21,393 - Thread-164 - DEBUG - Connection to 127.0.0.1:38226 closed.
+2018-07-01 09:21:21,408 - Thread-165 - DEBUG - Connected to 127.0.0.1:38228.
+2018-07-01 09:21:21,409 - Thread-165 - DEBUG - Connection to 127.0.0.1:38228 closed.
+2018-07-01 09:21:21,409 - Thread-166 - DEBUG - Connected to 127.0.0.1:38230.
+2018-07-01 09:21:21,410 - Thread-166 - DEBUG - Connection to 127.0.0.1:38230 closed.
+2018-07-01 09:21:21,424 - Thread-167 - DEBUG - Connected to 127.0.0.1:38232.
+2018-07-01 09:21:21,425 - Thread-167 - DEBUG - Connection to 127.0.0.1:38232 closed.
+2018-07-01 09:21:21,425 - Thread-168 - DEBUG - Connected to 127.0.0.1:38234.
+2018-07-01 09:21:21,426 - Thread-168 - DEBUG - Connection to 127.0.0.1:38234 closed.
+2018-07-01 09:21:21,426 - Thread-169 - DEBUG - Connected to 127.0.0.1:38236.
+2018-07-01 09:21:21,427 - Thread-169 - DEBUG - Connection to 127.0.0.1:38236 closed.
+2018-07-01 09:21:21,444 - Thread-170 - DEBUG - Connected to 127.0.0.1:38238.
+2018-07-01 09:21:21,445 - Thread-170 - DEBUG - Connection to 127.0.0.1:38238 closed.
+2018-07-01 09:21:21,460 - Thread-171 - DEBUG - Connected to 127.0.0.1:38240.
+2018-07-01 09:21:21,461 - Thread-171 - DEBUG - Connection to 127.0.0.1:38240 closed.
+2018-07-01 09:21:21,472 - Thread-172 - DEBUG - Connected to 127.0.0.1:38242.
+2018-07-01 09:21:21,473 - Thread-172 - DEBUG - Connection to 127.0.0.1:38242 closed.
+2018-07-01 09:21:21,488 - Thread-173 - DEBUG - Connected to 127.0.0.1:38244.
+2018-07-01 09:21:21,489 - Thread-173 - DEBUG - Connection to 127.0.0.1:38244 closed.
+2018-07-01 09:21:21,500 - Thread-174 - DEBUG - Connected to 127.0.0.1:38246.
+2018-07-01 09:21:21,501 - Thread-174 - DEBUG - Connection to 127.0.0.1:38246 closed.
+2018-07-01 09:21:21,512 - Thread-175 - DEBUG - Connected to 127.0.0.1:38248.
+2018-07-01 09:21:21,513 - Thread-175 - DEBUG - Connection to 127.0.0.1:38248 closed.
+2018-07-01 09:21:21,520 - Thread-176 - DEBUG - Connected to 127.0.0.1:38250.
+2018-07-01 09:21:21,521 - Thread-176 - DEBUG - Connection to 127.0.0.1:38250 closed.
+2018-07-01 09:21:21,536 - Thread-177 - DEBUG - Connected to 127.0.0.1:38252.
+2018-07-01 09:21:21,537 - Thread-177 - DEBUG - Connection to 127.0.0.1:38252 closed.
+2018-07-01 09:21:21,556 - Thread-178 - DEBUG - Connected to 127.0.0.1:38254.
+2018-07-01 09:21:21,557 - Thread-178 - DEBUG - Connection to 127.0.0.1:38254 closed.
+2018-07-01 09:21:21,564 - Thread-179 - DEBUG - Connected to 127.0.0.1:38256.
+2018-07-01 09:21:21,565 - Thread-179 - DEBUG - Connection to 127.0.0.1:38256 closed.
+2018-07-01 09:21:21,592 - Thread-180 - DEBUG - Connected to 127.0.0.1:38258.
+2018-07-01 09:21:21,594 - Thread-180 - DEBUG - Connection to 127.0.0.1:38258 closed.
+2018-07-01 09:21:21,620 - Thread-181 - DEBUG - Connected to 127.0.0.1:38260.
+2018-07-01 09:21:21,621 - Thread-181 - DEBUG - Connection to 127.0.0.1:38260 closed.
+2018-07-01 09:21:21,648 - Thread-182 - DEBUG - Connected to 127.0.0.1:38262.
+2018-07-01 09:21:21,649 - Thread-182 - DEBUG - Connection to 127.0.0.1:38262 closed.
+2018-07-01 09:21:21,664 - Thread-183 - DEBUG - Connected to 127.0.0.1:38264.
+2018-07-01 09:21:21,677 - Thread-183 - DEBUG - Connection to 127.0.0.1:38264 closed.
+2018-07-01 09:21:21,704 - Thread-184 - DEBUG - Connected to 127.0.0.1:38266.
+2018-07-01 09:21:21,705 - Thread-184 - DEBUG - Connection to 127.0.0.1:38266 closed.
+2018-07-01 09:21:21,720 - Thread-185 - DEBUG - Connected to 127.0.0.1:38268.
+2018-07-01 09:21:21,721 - Thread-185 - DEBUG - Connection to 127.0.0.1:38268 closed.
+2018-07-01 09:21:21,740 - Thread-186 - DEBUG - Connected to 127.0.0.1:38270.
+2018-07-01 09:21:21,741 - Thread-186 - DEBUG - Connection to 127.0.0.1:38270 closed.
+2018-07-01 09:21:21,760 - Thread-187 - DEBUG - Connected to 127.0.0.1:38272.
+2018-07-01 09:21:21,761 - Thread-187 - DEBUG - Connection to 127.0.0.1:38272 closed.
+2018-07-01 09:21:21,768 - Thread-188 - DEBUG - Connected to 127.0.0.1:38274.
+2018-07-01 09:21:21,769 - Thread-188 - DEBUG - Connection to 127.0.0.1:38274 closed.
+2018-07-01 09:21:21,796 - Thread-189 - DEBUG - Connected to 127.0.0.1:38276.
+2018-07-01 09:21:21,797 - Thread-189 - DEBUG - Connection to 127.0.0.1:38276 closed.
+2018-07-01 09:21:21,822 - Thread-190 - DEBUG - Connected to 127.0.0.1:38278.
+2018-07-01 09:21:21,823 - Thread-190 - DEBUG - Connection to 127.0.0.1:38278 closed.
+2018-07-01 09:21:21,840 - Thread-191 - DEBUG - Connected to 127.0.0.1:38280.
+2018-07-01 09:21:21,841 - Thread-191 - DEBUG - Connection to 127.0.0.1:38280 closed.
+2018-07-01 09:21:21,852 - Thread-192 - DEBUG - Connected to 127.0.0.1:38282.
+2018-07-01 09:21:21,853 - Thread-192 - DEBUG - Connection to 127.0.0.1:38282 closed.
+2018-07-01 09:21:21,868 - Thread-193 - DEBUG - Connected to 127.0.0.1:38284.
+2018-07-01 09:21:21,869 - Thread-193 - DEBUG - Connection to 127.0.0.1:38284 closed.
+2018-07-01 09:21:21,897 - Thread-194 - DEBUG - Connected to 127.0.0.1:38286.
+2018-07-01 09:21:21,898 - Thread-194 - DEBUG - Connection to 127.0.0.1:38286 closed.
+2018-07-01 09:21:21,908 - Thread-195 - DEBUG - Connected to 127.0.0.1:38288.
+2018-07-01 09:21:21,910 - Thread-195 - DEBUG - Connection to 127.0.0.1:38288 closed.
+2018-07-01 09:21:21,933 - Thread-196 - DEBUG - Connected to 127.0.0.1:38290.
+2018-07-01 09:21:21,934 - Thread-196 - DEBUG - Connection to 127.0.0.1:38290 closed.
+2018-07-01 09:21:21,952 - Thread-197 - DEBUG - Connected to 127.0.0.1:38292.
+2018-07-01 09:21:21,954 - Thread-197 - DEBUG - Connection to 127.0.0.1:38292 closed.
+2018-07-01 09:21:21,960 - Thread-198 - DEBUG - Connected to 127.0.0.1:38294.
+2018-07-01 09:21:21,961 - Thread-198 - DEBUG - Connection to 127.0.0.1:38294 closed.
+2018-07-01 09:21:21,988 - Thread-199 - DEBUG - Connected to 127.0.0.1:38296.
+2018-07-01 09:21:21,990 - Thread-199 - DEBUG - Connection to 127.0.0.1:38296 closed.
+2018-07-01 09:21:22,011 - Thread-200 - DEBUG - Connected to 127.0.0.1:38298.
+2018-07-01 09:21:22,012 - Thread-200 - DEBUG - Connection to 127.0.0.1:38298 closed.
+2018-07-01 09:21:22,020 - Thread-201 - DEBUG - Connected to 127.0.0.1:38300.
+2018-07-01 09:21:22,021 - Thread-201 - DEBUG - Connection to 127.0.0.1:38300 closed.
+2018-07-01 09:21:22,040 - Thread-202 - DEBUG - Connected to 127.0.0.1:38302.
+2018-07-01 09:21:22,042 - Thread-202 - DEBUG - Connection to 127.0.0.1:38302 closed.
+2018-07-01 09:21:22,048 - Thread-203 - DEBUG - Connected to 127.0.0.1:38304.
+2018-07-01 09:21:22,049 - Thread-203 - DEBUG - Connection to 127.0.0.1:38304 closed.
+2018-07-01 09:21:22,072 - Thread-204 - DEBUG - Connected to 127.0.0.1:38306.
+2018-07-01 09:21:22,074 - Thread-204 - DEBUG - Connection to 127.0.0.1:38306 closed.
+2018-07-01 09:21:22,084 - Thread-205 - DEBUG - Connected to 127.0.0.1:38308.
+2018-07-01 09:21:22,085 - Thread-205 - DEBUG - Connection to 127.0.0.1:38308 closed.
+2018-07-01 09:21:22,096 - Thread-206 - DEBUG - Connected to 127.0.0.1:38310.
+2018-07-01 09:21:22,097 - Thread-206 - DEBUG - Connection to 127.0.0.1:38310 closed.
+2018-07-01 09:21:22,111 - Thread-207 - DEBUG - Connected to 127.0.0.1:38312.
+2018-07-01 09:21:22,112 - Thread-207 - DEBUG - Connection to 127.0.0.1:38312 closed.
+2018-07-01 09:21:22,136 - Thread-208 - DEBUG - Connected to 127.0.0.1:38314.
+2018-07-01 09:21:22,138 - Thread-208 - DEBUG - Connection to 127.0.0.1:38314 closed.
+2018-07-01 09:21:22,163 - Thread-209 - DEBUG - Connected to 127.0.0.1:38316.
+2018-07-01 09:21:22,164 - Thread-209 - DEBUG - Connection to 127.0.0.1:38316 closed.
+2018-07-01 09:21:22,164 - Thread-210 - DEBUG - Connected to 127.0.0.1:38318.
+2018-07-01 09:21:22,165 - Thread-210 - DEBUG - Connection to 127.0.0.1:38318 closed.
+2018-07-01 09:21:22,180 - Thread-211 - DEBUG - Connected to 127.0.0.1:38320.
+2018-07-01 09:21:22,181 - Thread-211 - DEBUG - Connection to 127.0.0.1:38320 closed.
+2018-07-01 09:21:22,182 - Thread-212 - DEBUG - Connected to 127.0.0.1:38322.
+2018-07-01 09:21:22,182 - Thread-212 - DEBUG - Connection to 127.0.0.1:38322 closed.
+2018-07-01 09:21:22,196 - Thread-213 - DEBUG - Connected to 127.0.0.1:38324.
+2018-07-01 09:21:22,197 - Thread-213 - DEBUG - Connection to 127.0.0.1:38324 closed.
+2018-07-01 09:21:22,198 - Thread-214 - DEBUG - Connected to 127.0.0.1:38326.
+2018-07-01 09:21:22,198 - Thread-214 - DEBUG - Connection to 127.0.0.1:38326 closed.
+2018-07-01 09:21:22,220 - Thread-215 - DEBUG - Connected to 127.0.0.1:38328.
+2018-07-01 09:21:22,222 - Thread-215 - DEBUG - Connection to 127.0.0.1:38328 closed.
+2018-07-01 09:21:22,228 - Thread-216 - DEBUG - Connected to 127.0.0.1:38330.
+2018-07-01 09:21:22,229 - Thread-216 - DEBUG - Connection to 127.0.0.1:38330 closed.
+2018-07-01 09:21:22,244 - Thread-217 - DEBUG - Connected to 127.0.0.1:38332.
+2018-07-01 09:21:22,245 - Thread-217 - DEBUG - Connection to 127.0.0.1:38332 closed.
+2018-07-01 09:21:22,246 - Thread-218 - DEBUG - Connected to 127.0.0.1:38334.
+2018-07-01 09:21:22,246 - Thread-218 - DEBUG - Connection to 127.0.0.1:38334 closed.
+2018-07-01 09:21:22,260 - Thread-219 - DEBUG - Connected to 127.0.0.1:38336.
+2018-07-01 09:21:22,261 - Thread-219 - DEBUG - Connection to 127.0.0.1:38336 closed.
+2018-07-01 09:21:22,262 - Thread-220 - DEBUG - Connected to 127.0.0.1:38338.
+2018-07-01 09:21:22,262 - Thread-220 - DEBUG - Connection to 127.0.0.1:38338 closed.
+2018-07-01 09:21:22,264 - Thread-221 - DEBUG - Connected to 127.0.0.1:38340.
+2018-07-01 09:21:22,265 - Thread-221 - DEBUG - Connection to 127.0.0.1:38340 closed.
+2018-07-01 09:21:22,272 - Thread-222 - DEBUG - Connected to 127.0.0.1:38342.
+2018-07-01 09:21:22,273 - Thread-222 - DEBUG - Connection to 127.0.0.1:38342 closed.
+2018-07-01 09:21:22,280 - Thread-223 - DEBUG - Connected to 127.0.0.1:38344.
+2018-07-01 09:21:22,281 - Thread-223 - DEBUG - Connection to 127.0.0.1:38344 closed.
+2018-07-01 09:21:22,288 - Thread-224 - DEBUG - Connected to 127.0.0.1:38346.
+2018-07-01 09:21:22,289 - Thread-224 - DEBUG - Connection to 127.0.0.1:38346 closed.
+2018-07-01 09:21:22,296 - Thread-225 - DEBUG - Connected to 127.0.0.1:38348.
+2018-07-01 09:21:22,297 - Thread-225 - DEBUG - Connection to 127.0.0.1:38348 closed.
+2018-07-01 09:21:22,301 - Thread-226 - DEBUG - Connected to 127.0.0.1:38350.
+2018-07-01 09:21:22,302 - Thread-226 - DEBUG - Connection to 127.0.0.1:38350 closed.
+2018-07-01 09:21:22,311 - Thread-227 - DEBUG - Connected to 127.0.0.1:38352.
+2018-07-01 09:21:22,312 - Thread-227 - DEBUG - Connection to 127.0.0.1:38352 closed.
+2018-07-01 09:21:22,320 - Thread-228 - DEBUG - Connected to 127.0.0.1:38354.
+2018-07-01 09:21:22,321 - Thread-228 - DEBUG - Connection to 127.0.0.1:38354 closed.
+2018-07-01 09:21:22,321 - Thread-229 - DEBUG - Connected to 127.0.0.1:38356.
+2018-07-01 09:21:22,322 - Thread-229 - DEBUG - Connection to 127.0.0.1:38356 closed.
+2018-07-01 09:21:22,328 - Thread-230 - DEBUG - Connected to 127.0.0.1:38358.
+2018-07-01 09:21:22,329 - Thread-230 - DEBUG - Connection to 127.0.0.1:38358 closed.
+2018-07-01 09:21:22,344 - Thread-231 - DEBUG - Connected to 127.0.0.1:38360.
+2018-07-01 09:21:22,345 - Thread-231 - DEBUG - Connection to 127.0.0.1:38360 closed.
+2018-07-01 09:21:22,352 - Thread-232 - DEBUG - Connected to 127.0.0.1:38362.
+2018-07-01 09:21:22,353 - Thread-232 - DEBUG - Connection to 127.0.0.1:38362 closed.
+2018-07-01 09:21:22,360 - Thread-233 - DEBUG - Connected to 127.0.0.1:38364.
+2018-07-01 09:21:22,361 - Thread-233 - DEBUG - Connection to 127.0.0.1:38364 closed.
+2018-07-01 09:21:22,368 - Thread-234 - DEBUG - Connected to 127.0.0.1:38366.
+2018-07-01 09:21:22,369 - Thread-234 - DEBUG - Connection to 127.0.0.1:38366 closed.
+2018-07-01 09:21:22,384 - Thread-235 - DEBUG - Connected to 127.0.0.1:38368.
+2018-07-01 09:21:22,385 - Thread-235 - DEBUG - Connection to 127.0.0.1:38368 closed.
+2018-07-01 09:21:22,386 - Thread-236 - DEBUG - Connected to 127.0.0.1:38370.
+2018-07-01 09:21:22,386 - Thread-236 - DEBUG - Connection to 127.0.0.1:38370 closed.
+2018-07-01 09:21:22,387 - Thread-237 - DEBUG - Connected to 127.0.0.1:38372.
+2018-07-01 09:21:22,387 - Thread-237 - DEBUG - Connection to 127.0.0.1:38372 closed.
+2018-07-01 09:21:22,400 - Thread-238 - DEBUG - Connected to 127.0.0.1:38374.
+2018-07-01 09:21:22,401 - Thread-238 - DEBUG - Connection to 127.0.0.1:38374 closed.
+2018-07-01 09:21:22,402 - Thread-239 - DEBUG - Connected to 127.0.0.1:38376.
+2018-07-01 09:21:22,402 - Thread-239 - DEBUG - Connection to 127.0.0.1:38376 closed.
+2018-07-01 09:21:22,411 - Thread-240 - DEBUG - Connected to 127.0.0.1:38378.
+2018-07-01 09:21:22,412 - Thread-240 - DEBUG - Connection to 127.0.0.1:38378 closed.
+2018-07-01 09:21:22,428 - Thread-241 - DEBUG - Connected to 127.0.0.1:38380.
+2018-07-01 09:21:22,429 - Thread-241 - DEBUG - Connection to 127.0.0.1:38380 closed.
+2018-07-01 09:21:22,430 - Thread-242 - DEBUG - Connected to 127.0.0.1:38382.
+2018-07-01 09:21:22,430 - Thread-242 - DEBUG - Connection to 127.0.0.1:38382 closed.
+2018-07-01 09:21:22,431 - Thread-243 - DEBUG - Connected to 127.0.0.1:38384.
+2018-07-01 09:21:22,431 - Thread-243 - DEBUG - Connection to 127.0.0.1:38384 closed.
+2018-07-01 09:21:22,444 - Thread-244 - DEBUG - Connected to 127.0.0.1:38386.
+2018-07-01 09:21:22,445 - Thread-244 - DEBUG - Connection to 127.0.0.1:38386 closed.
+2018-07-01 09:21:22,445 - Thread-245 - DEBUG - Connected to 127.0.0.1:38388.
+2018-07-01 09:21:22,446 - Thread-245 - DEBUG - Connection to 127.0.0.1:38388 closed.
+2018-07-01 09:21:22,460 - Thread-246 - DEBUG - Connected to 127.0.0.1:38390.
+2018-07-01 09:21:22,461 - Thread-246 - DEBUG - Connection to 127.0.0.1:38390 closed.
+2018-07-01 09:21:22,461 - Thread-247 - DEBUG - Connected to 127.0.0.1:38392.
+2018-07-01 09:21:22,462 - Thread-247 - DEBUG - Connection to 127.0.0.1:38392 closed.
+2018-07-01 09:21:22,476 - Thread-248 - DEBUG - Connected to 127.0.0.1:38394.
+2018-07-01 09:21:22,477 - Thread-248 - DEBUG - Connection to 127.0.0.1:38394 closed.
+2018-07-01 09:21:22,478 - Thread-249 - DEBUG - Connected to 127.0.0.1:38396.
+2018-07-01 09:21:22,478 - Thread-249 - DEBUG - Connection to 127.0.0.1:38396 closed.
+2018-07-01 09:21:22,492 - Thread-250 - DEBUG - Connected to 127.0.0.1:38398.
+2018-07-01 09:21:22,493 - Thread-250 - DEBUG - Connection to 127.0.0.1:38398 closed.
+2018-07-01 09:21:22,494 - Thread-251 - DEBUG - Connected to 127.0.0.1:38400.
+2018-07-01 09:21:22,494 - Thread-251 - DEBUG - Connection to 127.0.0.1:38400 closed.
+2018-07-01 09:21:22,495 - Thread-252 - DEBUG - Connected to 127.0.0.1:38402.
+2018-07-01 09:21:22,504 - Thread-252 - DEBUG - Connection to 127.0.0.1:38402 closed.
+2018-07-01 09:21:22,505 - Thread-253 - DEBUG - Connected to 127.0.0.1:38404.
+2018-07-01 09:21:22,505 - Thread-253 - DEBUG - Connection to 127.0.0.1:38404 closed.
+2018-07-01 09:21:22,511 - Thread-254 - DEBUG - Connected to 127.0.0.1:38406.
+2018-07-01 09:21:22,512 - Thread-254 - DEBUG - Connection to 127.0.0.1:38406 closed.
+2018-07-01 09:21:22,524 - Thread-255 - DEBUG - Connected to 127.0.0.1:38408.
+2018-07-01 09:21:22,525 - Thread-255 - DEBUG - Connection to 127.0.0.1:38408 closed.
+2018-07-01 09:21:22,526 - Thread-256 - DEBUG - Connected to 127.0.0.1:38410.
+2018-07-01 09:21:22,526 - Thread-256 - DEBUG - Connection to 127.0.0.1:38410 closed.
+2018-07-01 09:21:22,544 - Thread-257 - DEBUG - Connected to 127.0.0.1:38412.
+2018-07-01 09:21:22,545 - Thread-257 - DEBUG - Connection to 127.0.0.1:38412 closed.
+2018-07-01 09:21:22,564 - Thread-258 - DEBUG - Connected to 127.0.0.1:38414.
+2018-07-01 09:21:22,565 - Thread-258 - DEBUG - Connection to 127.0.0.1:38414 closed.
+2018-07-01 09:21:22,566 - Thread-259 - DEBUG - Connected to 127.0.0.1:38416.
+2018-07-01 09:21:22,566 - Thread-259 - DEBUG - Connection to 127.0.0.1:38416 closed.
+2018-07-01 09:21:22,567 - Thread-260 - DEBUG - Connected to 127.0.0.1:38418.
+2018-07-01 09:21:22,567 - Thread-260 - DEBUG - Connection to 127.0.0.1:38418 closed.
+2018-07-01 09:21:22,580 - Thread-261 - DEBUG - Connected to 127.0.0.1:38420.
+2018-07-01 09:21:22,582 - Thread-261 - DEBUG - Connection to 127.0.0.1:38420 closed.
+2018-07-01 09:21:22,582 - Thread-262 - DEBUG - Connected to 127.0.0.1:38422.
+2018-07-01 09:21:22,583 - Thread-262 - DEBUG - Connection to 127.0.0.1:38422 closed.
+2018-07-01 09:21:22,596 - Thread-263 - DEBUG - Connected to 127.0.0.1:38424.
+2018-07-01 09:21:22,597 - Thread-263 - DEBUG - Connection to 127.0.0.1:38424 closed.
+2018-07-01 09:21:22,598 - Thread-264 - DEBUG - Connected to 127.0.0.1:38426.
+2018-07-01 09:21:22,598 - Thread-264 - DEBUG - Connection to 127.0.0.1:38426 closed.
+2018-07-01 09:21:22,612 - Thread-265 - DEBUG - Connected to 127.0.0.1:38428.
+2018-07-01 09:21:22,613 - Thread-265 - DEBUG - Connection to 127.0.0.1:38428 closed.
+2018-07-01 09:21:22,613 - Thread-266 - DEBUG - Connected to 127.0.0.1:38430.
+2018-07-01 09:21:22,614 - Thread-266 - DEBUG - Connection to 127.0.0.1:38430 closed.
+2018-07-01 09:21:22,628 - Thread-267 - DEBUG - Connected to 127.0.0.1:38432.
+2018-07-01 09:21:22,629 - Thread-267 - DEBUG - Connection to 127.0.0.1:38432 closed.
+2018-07-01 09:21:22,630 - Thread-268 - DEBUG - Connected to 127.0.0.1:38434.
+2018-07-01 09:21:22,630 - Thread-268 - DEBUG - Connection to 127.0.0.1:38434 closed.
+2018-07-01 09:21:22,631 - Thread-269 - DEBUG - Connected to 127.0.0.1:38436.
+2018-07-01 09:21:22,631 - Thread-269 - DEBUG - Connection to 127.0.0.1:38436 closed.
+2018-07-01 09:21:22,644 - Thread-270 - DEBUG - Connected to 127.0.0.1:38438.
+2018-07-01 09:21:22,645 - Thread-270 - DEBUG - Connection to 127.0.0.1:38438 closed.
+2018-07-01 09:21:22,646 - Thread-271 - DEBUG - Connected to 127.0.0.1:38440.
+2018-07-01 09:21:22,646 - Thread-271 - DEBUG - Connection to 127.0.0.1:38440 closed.
+2018-07-01 09:21:22,653 - Thread-272 - DEBUG - Connected to 127.0.0.1:38442.
+2018-07-01 09:21:22,653 - Thread-272 - DEBUG - Connection to 127.0.0.1:38442 closed.
+2018-07-01 09:21:22,668 - Thread-273 - DEBUG - Connected to 127.0.0.1:38444.
+2018-07-01 09:21:22,669 - Thread-273 - DEBUG - Connection to 127.0.0.1:38444 closed.
+2018-07-01 09:21:22,670 - Thread-274 - DEBUG - Connected to 127.0.0.1:38446.
+2018-07-01 09:21:22,670 - Thread-274 - DEBUG - Connection to 127.0.0.1:38446 closed.
+2018-07-01 09:21:22,684 - Thread-275 - DEBUG - Connected to 127.0.0.1:38448.
+2018-07-01 09:21:22,685 - Thread-275 - DEBUG - Connection to 127.0.0.1:38448 closed.
+2018-07-01 09:21:22,685 - Thread-276 - DEBUG - Connected to 127.0.0.1:38450.
+2018-07-01 09:21:22,686 - Thread-276 - DEBUG - Connection to 127.0.0.1:38450 closed.
+2018-07-01 09:21:22,700 - Thread-277 - DEBUG - Connected to 127.0.0.1:38452.
+2018-07-01 09:21:22,701 - Thread-277 - DEBUG - Connection to 127.0.0.1:38452 closed.
+2018-07-01 09:21:22,702 - Thread-278 - DEBUG - Connected to 127.0.0.1:38454.
+2018-07-01 09:21:22,702 - Thread-278 - DEBUG - Connection to 127.0.0.1:38454 closed.
+2018-07-01 09:21:22,703 - Thread-279 - DEBUG - Connected to 127.0.0.1:38456.
+2018-07-01 09:21:22,703 - Thread-279 - DEBUG - Connection to 127.0.0.1:38456 closed.
+2018-07-01 09:21:22,712 - Thread-280 - DEBUG - Connected to 127.0.0.1:38458.
+2018-07-01 09:21:22,713 - Thread-280 - DEBUG - Connection to 127.0.0.1:38458 closed.
+2018-07-01 09:21:22,728 - Thread-281 - DEBUG - Connected to 127.0.0.1:38460.
+2018-07-01 09:21:22,729 - Thread-281 - DEBUG - Connection to 127.0.0.1:38460 closed.
+2018-07-01 09:21:22,730 - Thread-282 - DEBUG - Connected to 127.0.0.1:38462.
+2018-07-01 09:21:22,730 - Thread-282 - DEBUG - Connection to 127.0.0.1:38462 closed.
+2018-07-01 09:21:22,744 - Thread-283 - DEBUG - Connected to 127.0.0.1:38464.
+2018-07-01 09:21:22,745 - Thread-283 - DEBUG - Connection to 127.0.0.1:38464 closed.
+2018-07-01 09:21:22,745 - Thread-284 - DEBUG - Connected to 127.0.0.1:38466.
+2018-07-01 09:21:22,746 - Thread-284 - DEBUG - Connection to 127.0.0.1:38466 closed.
+2018-07-01 09:21:22,746 - Thread-285 - DEBUG - Connected to 127.0.0.1:38468.
+2018-07-01 09:21:22,747 - Thread-285 - DEBUG - Connection to 127.0.0.1:38468 closed.
+2018-07-01 09:21:22,760 - Thread-286 - DEBUG - Connected to 127.0.0.1:38470.
+2018-07-01 09:21:22,761 - Thread-286 - DEBUG - Connection to 127.0.0.1:38470 closed.
+2018-07-01 09:21:22,762 - Thread-287 - DEBUG - Connected to 127.0.0.1:38472.
+2018-07-01 09:21:22,762 - Thread-287 - DEBUG - Connection to 127.0.0.1:38472 closed.
+2018-07-01 09:21:22,776 - Thread-288 - DEBUG - Connected to 127.0.0.1:38474.
+2018-07-01 09:21:22,777 - Thread-288 - DEBUG - Connection to 127.0.0.1:38474 closed.
+2018-07-01 09:21:22,778 - Thread-289 - DEBUG - Connected to 127.0.0.1:38476.
+2018-07-01 09:21:22,778 - Thread-289 - DEBUG - Connection to 127.0.0.1:38476 closed.
+2018-07-01 09:21:22,792 - Thread-290 - DEBUG - Connected to 127.0.0.1:38478.
+2018-07-01 09:21:22,793 - Thread-290 - DEBUG - Connection to 127.0.0.1:38478 closed.
+2018-07-01 09:21:22,793 - Thread-291 - DEBUG - Connected to 127.0.0.1:38480.
+2018-07-01 09:21:22,794 - Thread-291 - DEBUG - Connection to 127.0.0.1:38480 closed.
+2018-07-01 09:21:22,801 - Thread-292 - DEBUG - Connected to 127.0.0.1:38482.
+2018-07-01 09:21:22,802 - Thread-292 - DEBUG - Connection to 127.0.0.1:38482 closed.
+2018-07-01 09:21:22,808 - Thread-293 - DEBUG - Connected to 127.0.0.1:38484.
+2018-07-01 09:21:22,809 - Thread-293 - DEBUG - Connection to 127.0.0.1:38484 closed.
+2018-07-01 09:21:22,812 - Thread-294 - DEBUG - Connected to 127.0.0.1:38486.
+2018-07-01 09:21:22,813 - Thread-294 - DEBUG - Connection to 127.0.0.1:38486 closed.
+2018-07-01 09:21:22,828 - Thread-295 - DEBUG - Connected to 127.0.0.1:38488.
+2018-07-01 09:21:22,829 - Thread-295 - DEBUG - Connection to 127.0.0.1:38488 closed.
+2018-07-01 09:21:22,830 - Thread-296 - DEBUG - Connected to 127.0.0.1:38490.
+2018-07-01 09:21:22,830 - Thread-296 - DEBUG - Connection to 127.0.0.1:38490 closed.
+2018-07-01 09:21:22,844 - Thread-297 - DEBUG - Connected to 127.0.0.1:38492.
+2018-07-01 09:21:22,845 - Thread-297 - DEBUG - Connection to 127.0.0.1:38492 closed.
+2018-07-01 09:21:22,845 - Thread-298 - DEBUG - Connected to 127.0.0.1:38494.
+2018-07-01 09:21:22,846 - Thread-298 - DEBUG - Connection to 127.0.0.1:38494 closed.
+2018-07-01 09:21:22,846 - Thread-299 - DEBUG - Connected to 127.0.0.1:38496.
+2018-07-01 09:21:22,847 - Thread-299 - DEBUG - Connection to 127.0.0.1:38496 closed.
+2018-07-01 09:21:22,848 - Thread-300 - DEBUG - Connected to 127.0.0.1:38498.
+2018-07-01 09:21:22,849 - Thread-300 - DEBUG - Connection to 127.0.0.1:38498 closed.
+2018-07-01 09:21:22,849 - Thread-301 - DEBUG - Connected to 127.0.0.1:38500.
+2018-07-01 09:21:22,850 - Thread-301 - DEBUG - Connection to 127.0.0.1:38500 closed.
+2018-07-01 09:21:22,850 - Thread-302 - DEBUG - Connected to 127.0.0.1:38502.
+2018-07-01 09:21:22,851 - Thread-302 - DEBUG - Connection to 127.0.0.1:38502 closed.
+2018-07-01 09:21:22,851 - Thread-303 - DEBUG - Connected to 127.0.0.1:38504.
+2018-07-01 09:21:22,851 - Thread-303 - DEBUG - Connection to 127.0.0.1:38504 closed.
+2018-07-01 09:21:22,852 - Thread-304 - DEBUG - Connected to 127.0.0.1:38506.
+2018-07-01 09:21:22,852 - Thread-304 - DEBUG - Connection to 127.0.0.1:38506 closed.
+2018-07-01 09:21:22,853 - Thread-305 - DEBUG - Connected to 127.0.0.1:38508.
+2018-07-01 09:21:22,853 - Thread-305 - DEBUG - Connection to 127.0.0.1:38508 closed.
+2018-07-01 09:21:22,853 - Thread-306 - DEBUG - Connected to 127.0.0.1:38510.
+2018-07-01 09:21:22,854 - Thread-306 - DEBUG - Connection to 127.0.0.1:38510 closed.
+2018-07-01 09:21:22,854 - Thread-307 - DEBUG - Connected to 127.0.0.1:38512.
+2018-07-01 09:21:22,855 - Thread-307 - DEBUG - Connection to 127.0.0.1:38512 closed.
+2018-07-01 09:21:22,855 - Thread-308 - DEBUG - Connected to 127.0.0.1:38514.
+2018-07-01 09:21:22,856 - Thread-308 - DEBUG - Connection to 127.0.0.1:38514 closed.
+2018-07-01 09:21:22,856 - Thread-309 - DEBUG - Connected to 127.0.0.1:38516.
+2018-07-01 09:21:22,857 - Thread-309 - DEBUG - Connection to 127.0.0.1:38516 closed.
+2018-07-01 09:21:22,857 - Thread-310 - DEBUG - Connected to 127.0.0.1:38518.
+2018-07-01 09:21:22,858 - Thread-310 - DEBUG - Connection to 127.0.0.1:38518 closed.
+2018-07-01 09:21:22,858 - Thread-311 - DEBUG - Connected to 127.0.0.1:38520.
+2018-07-01 09:21:22,859 - Thread-311 - DEBUG - Connection to 127.0.0.1:38520 closed.
+2018-07-01 09:21:22,859 - Thread-312 - DEBUG - Connected to 127.0.0.1:38522.
+2018-07-01 09:21:22,860 - Thread-312 - DEBUG - Connection to 127.0.0.1:38522 closed.
+2018-07-01 09:21:22,860 - Thread-313 - DEBUG - Connected to 127.0.0.1:38524.
+2018-07-01 09:21:22,861 - Thread-313 - DEBUG - Connection to 127.0.0.1:38524 closed.
+2018-07-01 09:21:22,861 - Thread-314 - DEBUG - Connected to 127.0.0.1:38526.
+2018-07-01 09:21:22,862 - Thread-314 - DEBUG - Connection to 127.0.0.1:38526 closed.
+2018-07-01 09:21:22,862 - Thread-315 - DEBUG - Connected to 127.0.0.1:38528.
+2018-07-01 09:21:22,863 - Thread-315 - DEBUG - Connection to 127.0.0.1:38528 closed.
+2018-07-01 09:21:22,863 - Thread-316 - DEBUG - Connected to 127.0.0.1:38530.
+2018-07-01 09:21:22,864 - Thread-316 - DEBUG - Connection to 127.0.0.1:38530 closed.
+2018-07-01 09:21:22,864 - Thread-317 - DEBUG - Connected to 127.0.0.1:38532.
+2018-07-01 09:21:22,865 - Thread-317 - DEBUG - Connection to 127.0.0.1:38532 closed.
+2018-07-01 09:21:22,865 - Thread-318 - DEBUG - Connected to 127.0.0.1:38534.
+2018-07-01 09:21:22,866 - Thread-318 - DEBUG - Connection to 127.0.0.1:38534 closed.
+2018-07-01 09:21:22,866 - Thread-319 - DEBUG - Connected to 127.0.0.1:38536.
+2018-07-01 09:21:22,867 - Thread-319 - DEBUG - Connection to 127.0.0.1:38536 closed.
+2018-07-01 09:21:22,867 - Thread-320 - DEBUG - Connected to 127.0.0.1:38538.
+2018-07-01 09:21:22,868 - Thread-320 - DEBUG - Connection to 127.0.0.1:38538 closed.
+2018-07-01 09:21:22,868 - Thread-321 - DEBUG - Connected to 127.0.0.1:38540.
+2018-07-01 09:21:22,868 - Thread-321 - DEBUG - Connection to 127.0.0.1:38540 closed.
+2018-07-01 09:21:22,872 - Thread-322 - DEBUG - Connected to 127.0.0.1:38542.
+2018-07-01 09:21:22,874 - Thread-322 - DEBUG - Connection to 127.0.0.1:38542 closed.
+2018-07-01 09:21:22,892 - Thread-323 - DEBUG - Connected to 127.0.0.1:38544.
+2018-07-01 09:21:22,893 - Thread-323 - DEBUG - Connection to 127.0.0.1:38544 closed.
+2018-07-01 09:21:22,906 - Thread-324 - DEBUG - Connected to 127.0.0.1:38546.
+2018-07-01 09:21:22,907 - Thread-324 - DEBUG - Connection to 127.0.0.1:38546 closed.
+2018-07-01 09:21:22,920 - Thread-325 - DEBUG - Connected to 127.0.0.1:38548.
+2018-07-01 09:21:22,923 - Thread-325 - DEBUG - Connection to 127.0.0.1:38548 closed.
+2018-07-01 09:21:22,936 - Thread-326 - DEBUG - Connected to 127.0.0.1:38550.
+2018-07-01 09:21:22,937 - Thread-326 - DEBUG - Connection to 127.0.0.1:38550 closed.
+2018-07-01 09:21:22,944 - Thread-327 - DEBUG - Connected to 127.0.0.1:38552.
+2018-07-01 09:21:22,945 - Thread-327 - DEBUG - Connection to 127.0.0.1:38552 closed.
+2018-07-01 09:21:22,952 - Thread-328 - DEBUG - Connected to 127.0.0.1:38554.
+2018-07-01 09:21:22,953 - Thread-328 - DEBUG - Connection to 127.0.0.1:38554 closed.
+2018-07-01 09:21:22,960 - Thread-329 - DEBUG - Connected to 127.0.0.1:38556.
+2018-07-01 09:21:22,961 - Thread-329 - DEBUG - Connection to 127.0.0.1:38556 closed.
+2018-07-01 09:21:22,968 - Thread-330 - DEBUG - Connected to 127.0.0.1:38558.
+2018-07-01 09:21:22,969 - Thread-330 - DEBUG - Connection to 127.0.0.1:38558 closed.
+2018-07-01 09:21:22,976 - Thread-331 - DEBUG - Connected to 127.0.0.1:38560.
+2018-07-01 09:21:22,977 - Thread-331 - DEBUG - Connection to 127.0.0.1:38560 closed.
+2018-07-01 09:21:22,984 - Thread-332 - DEBUG - Connected to 127.0.0.1:38562.
+2018-07-01 09:21:22,985 - Thread-332 - DEBUG - Connection to 127.0.0.1:38562 closed.
+2018-07-01 09:21:22,992 - Thread-333 - DEBUG - Connected to 127.0.0.1:38564.
+2018-07-01 09:21:22,993 - Thread-333 - DEBUG - Connection to 127.0.0.1:38564 closed.
+2018-07-01 09:21:23,000 - Thread-334 - DEBUG - Connected to 127.0.0.1:38566.
+2018-07-01 09:21:23,001 - Thread-334 - DEBUG - Connection to 127.0.0.1:38566 closed.
+2018-07-01 09:21:23,012 - Thread-335 - DEBUG - Connected to 127.0.0.1:38568.
+2018-07-01 09:21:23,013 - Thread-335 - DEBUG - Connection to 127.0.0.1:38568 closed.
+2018-07-01 09:21:23,020 - Thread-336 - DEBUG - Connected to 127.0.0.1:38570.
+2018-07-01 09:21:23,021 - Thread-336 - DEBUG - Connection to 127.0.0.1:38570 closed.
+2018-07-01 09:21:23,028 - Thread-337 - DEBUG - Connected to 127.0.0.1:38572.
+2018-07-01 09:21:23,029 - Thread-337 - DEBUG - Connection to 127.0.0.1:38572 closed.
+2018-07-01 09:21:23,036 - Thread-338 - DEBUG - Connected to 127.0.0.1:38574.
+2018-07-01 09:21:23,037 - Thread-338 - DEBUG - Connection to 127.0.0.1:38574 closed.
+2018-07-01 09:21:23,056 - Thread-339 - DEBUG - Connected to 127.0.0.1:38576.
+2018-07-01 09:21:23,057 - Thread-339 - DEBUG - Connection to 127.0.0.1:38576 closed.
+2018-07-01 09:21:23,069 - Thread-340 - DEBUG - Connected to 127.0.0.1:38578.
+2018-07-01 09:21:23,070 - Thread-340 - DEBUG - Connection to 127.0.0.1:38578 closed.
+2018-07-01 09:21:23,070 - Thread-341 - DEBUG - Connected to 127.0.0.1:38580.
+2018-07-01 09:21:23,071 - Thread-341 - DEBUG - Connection to 127.0.0.1:38580 closed.
+2018-07-01 09:21:23,071 - Thread-342 - DEBUG - Connected to 127.0.0.1:38582.
+2018-07-01 09:21:23,072 - Thread-342 - DEBUG - Connection to 127.0.0.1:38582 closed.
+2018-07-01 09:21:23,072 - Thread-343 - DEBUG - Connected to 127.0.0.1:38584.
+2018-07-01 09:21:23,073 - Thread-343 - DEBUG - Connection to 127.0.0.1:38584 closed.
+2018-07-01 09:21:23,073 - Thread-344 - DEBUG - Connected to 127.0.0.1:38586.
+2018-07-01 09:21:23,074 - Thread-344 - DEBUG - Connection to 127.0.0.1:38586 closed.
+2018-07-01 09:21:23,074 - Thread-345 - DEBUG - Connected to 127.0.0.1:38588.
+2018-07-01 09:21:23,075 - Thread-345 - DEBUG - Connection to 127.0.0.1:38588 closed.
+2018-07-01 09:21:23,075 - Thread-346 - DEBUG - Connected to 127.0.0.1:38590.
+2018-07-01 09:21:23,075 - Thread-346 - DEBUG - Connection to 127.0.0.1:38590 closed.
+2018-07-01 09:21:23,076 - Thread-347 - DEBUG - Connected to 127.0.0.1:38592.
+2018-07-01 09:21:23,076 - Thread-347 - DEBUG - Connection to 127.0.0.1:38592 closed.
+2018-07-01 09:21:23,077 - Thread-348 - DEBUG - Connected to 127.0.0.1:38594.
+2018-07-01 09:21:23,077 - Thread-348 - DEBUG - Connection to 127.0.0.1:38594 closed.
+2018-07-01 09:21:23,077 - Thread-349 - DEBUG - Connected to 127.0.0.1:38596.
+2018-07-01 09:21:23,078 - Thread-349 - DEBUG - Connection to 127.0.0.1:38596 closed.
+2018-07-01 09:21:23,078 - Thread-350 - DEBUG - Connected to 127.0.0.1:38598.
+2018-07-01 09:21:23,079 - Thread-350 - DEBUG - Connection to 127.0.0.1:38598 closed.
+2018-07-01 09:21:23,079 - Thread-351 - DEBUG - Connected to 127.0.0.1:38600.
+2018-07-01 09:21:23,080 - Thread-351 - DEBUG - Connection to 127.0.0.1:38600 closed.
+2018-07-01 09:21:23,080 - Thread-352 - DEBUG - Connected to 127.0.0.1:38602.
+2018-07-01 09:21:23,081 - Thread-352 - DEBUG - Connection to 127.0.0.1:38602 closed.
+2018-07-01 09:21:23,081 - Thread-353 - DEBUG - Connected to 127.0.0.1:38604.
+2018-07-01 09:21:23,082 - Thread-353 - DEBUG - Connection to 127.0.0.1:38604 closed.
+2018-07-01 09:21:23,082 - Thread-354 - DEBUG - Connected to 127.0.0.1:38606.
+2018-07-01 09:21:23,083 - Thread-354 - DEBUG - Connection to 127.0.0.1:38606 closed.
+2018-07-01 09:21:23,083 - Thread-355 - DEBUG - Connected to 127.0.0.1:38608.
+2018-07-01 09:21:23,084 - Thread-355 - DEBUG - Connection to 127.0.0.1:38608 closed.
+2018-07-01 09:21:23,084 - Thread-356 - DEBUG - Connected to 127.0.0.1:38610.
+2018-07-01 09:21:23,085 - Thread-356 - DEBUG - Connection to 127.0.0.1:38610 closed.
+2018-07-01 09:21:23,085 - Thread-357 - DEBUG - Connected to 127.0.0.1:38612.
+2018-07-01 09:21:23,086 - Thread-357 - DEBUG - Connection to 127.0.0.1:38612 closed.
+2018-07-01 09:21:23,086 - Thread-358 - DEBUG - Connected to 127.0.0.1:38614.
+2018-07-01 09:21:23,087 - Thread-358 - DEBUG - Connection to 127.0.0.1:38614 closed.
+2018-07-01 09:21:23,087 - Thread-359 - DEBUG - Connected to 127.0.0.1:38616.
+2018-07-01 09:21:23,088 - Thread-359 - DEBUG - Connection to 127.0.0.1:38616 closed.
+2018-07-01 09:21:23,088 - Thread-360 - DEBUG - Connected to 127.0.0.1:38618.
+2018-07-01 09:21:23,089 - Thread-360 - DEBUG - Connection to 127.0.0.1:38618 closed.
+2018-07-01 09:21:23,089 - Thread-361 - DEBUG - Connected to 127.0.0.1:38620.
+2018-07-01 09:21:23,090 - Thread-361 - DEBUG - Connection to 127.0.0.1:38620 closed.
+2018-07-01 09:21:23,090 - Thread-362 - DEBUG - Connected to 127.0.0.1:38622.
+2018-07-01 09:21:23,090 - Thread-362 - DEBUG - Connection to 127.0.0.1:38622 closed.
+2018-07-01 09:21:23,091 - Thread-363 - DEBUG - Connected to 127.0.0.1:38624.
+2018-07-01 09:21:23,091 - Thread-363 - DEBUG - Connection to 127.0.0.1:38624 closed.
+2018-07-01 09:21:23,092 - Thread-364 - DEBUG - Connected to 127.0.0.1:38626.
+2018-07-01 09:21:23,092 - Thread-364 - DEBUG - Connection to 127.0.0.1:38626 closed.
+2018-07-01 09:21:23,092 - Thread-365 - DEBUG - Connected to 127.0.0.1:38628.
+2018-07-01 09:21:23,093 - Thread-365 - DEBUG - Connection to 127.0.0.1:38628 closed.
+2018-07-01 09:21:23,093 - Thread-366 - DEBUG - Connected to 127.0.0.1:38630.
+2018-07-01 09:21:23,094 - Thread-366 - DEBUG - Connection to 127.0.0.1:38630 closed.
+2018-07-01 09:21:23,094 - Thread-367 - DEBUG - Connected to 127.0.0.1:38632.
+2018-07-01 09:21:23,095 - Thread-367 - DEBUG - Connection to 127.0.0.1:38632 closed.
+2018-07-01 09:21:23,095 - Thread-368 - DEBUG - Connected to 127.0.0.1:38634.
+2018-07-01 09:21:23,096 - Thread-368 - DEBUG - Connection to 127.0.0.1:38634 closed.
+2018-07-01 09:21:23,096 - Thread-369 - DEBUG - Connected to 127.0.0.1:38636.
+2018-07-01 09:21:23,097 - Thread-369 - DEBUG - Connection to 127.0.0.1:38636 closed.
+2018-07-01 09:21:23,097 - Thread-370 - DEBUG - Connected to 127.0.0.1:38638.
+2018-07-01 09:21:23,098 - Thread-370 - DEBUG - Connection to 127.0.0.1:38638 closed.
+2018-07-01 09:21:23,098 - Thread-371 - DEBUG - Connected to 127.0.0.1:38640.
+2018-07-01 09:21:23,099 - Thread-371 - DEBUG - Connection to 127.0.0.1:38640 closed.
+2018-07-01 09:21:23,099 - Thread-372 - DEBUG - Connected to 127.0.0.1:38642.
+2018-07-01 09:21:23,100 - Thread-372 - DEBUG - Connection to 127.0.0.1:38642 closed.
+2018-07-01 09:21:23,100 - Thread-373 - DEBUG - Connected to 127.0.0.1:38644.
+2018-07-01 09:21:23,101 - Thread-373 - DEBUG - Connection to 127.0.0.1:38644 closed.
+2018-07-01 09:21:23,101 - Thread-374 - DEBUG - Connected to 127.0.0.1:38646.
+2018-07-01 09:21:23,102 - Thread-374 - DEBUG - Connection to 127.0.0.1:38646 closed.
+2018-07-01 09:21:23,102 - Thread-375 - DEBUG - Connected to 127.0.0.1:38648.
+2018-07-01 09:21:23,103 - Thread-375 - DEBUG - Connection to 127.0.0.1:38648 closed.
+2018-07-01 09:21:23,103 - Thread-376 - DEBUG - Connected to 127.0.0.1:38650.
+2018-07-01 09:21:23,104 - Thread-376 - DEBUG - Connection to 127.0.0.1:38650 closed.
+2018-07-01 09:21:23,104 - Thread-377 - DEBUG - Connected to 127.0.0.1:38652.
+2018-07-01 09:21:23,105 - Thread-378 - DEBUG - Connected to 127.0.0.1:38654.
+2018-07-01 09:21:23,105 - Thread-378 - DEBUG - Connection to 127.0.0.1:38654 closed.
+2018-07-01 09:21:23,106 - Thread-379 - DEBUG - Connected to 127.0.0.1:38656.
+2018-07-01 09:21:23,106 - Thread-379 - DEBUG - Connection to 127.0.0.1:38656 closed.
+2018-07-01 09:21:23,106 - Thread-380 - DEBUG - Connected to 127.0.0.1:38658.
+2018-07-01 09:21:23,107 - Thread-380 - DEBUG - Connection to 127.0.0.1:38658 closed.
+2018-07-01 09:21:23,107 - Thread-381 - DEBUG - Connected to 127.0.0.1:38660.
+2018-07-01 09:21:23,108 - Thread-381 - DEBUG - Connection to 127.0.0.1:38660 closed.
+2018-07-01 09:21:23,108 - Thread-382 - DEBUG - Connected to 127.0.0.1:38662.
+2018-07-01 09:21:23,108 - Thread-377 - DEBUG - Connection to 127.0.0.1:38652 closed.
+2018-07-01 09:21:23,109 - Thread-382 - DEBUG - Connection to 127.0.0.1:38662 closed.
+2018-07-01 09:21:23,109 - Thread-383 - DEBUG - Connected to 127.0.0.1:38664.
+2018-07-01 09:21:23,110 - Thread-383 - DEBUG - Connection to 127.0.0.1:38664 closed.
+2018-07-01 09:21:23,110 - Thread-384 - DEBUG - Connected to 127.0.0.1:38666.
+2018-07-01 09:21:23,111 - Thread-384 - DEBUG - Connection to 127.0.0.1:38666 closed.
+2018-07-01 09:21:23,111 - Thread-385 - DEBUG - Connected to 127.0.0.1:38668.
+2018-07-01 09:21:23,112 - Thread-385 - DEBUG - Connection to 127.0.0.1:38668 closed.
+2018-07-01 09:21:23,112 - Thread-386 - DEBUG - Connected to 127.0.0.1:38670.
+2018-07-01 09:21:23,113 - Thread-386 - DEBUG - Connection to 127.0.0.1:38670 closed.
+2018-07-01 09:21:23,116 - Thread-387 - DEBUG - Connected to 127.0.0.1:38672.
+2018-07-01 09:21:23,118 - Thread-387 - DEBUG - Connection to 127.0.0.1:38672 closed.
+2018-07-01 09:21:23,128 - Thread-388 - DEBUG - Connected to 127.0.0.1:38674.
+2018-07-01 09:21:23,129 - Thread-388 - DEBUG - Connection to 127.0.0.1:38674 closed.
+2018-07-01 09:21:23,136 - Thread-389 - DEBUG - Connected to 127.0.0.1:38676.
+2018-07-01 09:21:23,137 - Thread-389 - DEBUG - Connection to 127.0.0.1:38676 closed.
+2018-07-01 09:21:23,157 - Thread-390 - DEBUG - Connected to 127.0.0.1:38678.
+2018-07-01 09:21:23,158 - Thread-390 - DEBUG - Connection to 127.0.0.1:38678 closed.
+2018-07-01 09:21:23,171 - Thread-391 - DEBUG - Connected to 127.0.0.1:38680.
+2018-07-01 09:21:23,172 - Thread-391 - DEBUG - Connection to 127.0.0.1:38680 closed.
+2018-07-01 09:21:23,181 - Thread-392 - DEBUG - Connected to 127.0.0.1:38682.
+2018-07-01 09:21:23,182 - Thread-392 - DEBUG - Connection to 127.0.0.1:38682 closed.
+2018-07-01 09:21:23,192 - Thread-393 - DEBUG - Connected to 127.0.0.1:38684.
+2018-07-01 09:21:23,193 - Thread-393 - DEBUG - Connection to 127.0.0.1:38684 closed.
+2018-07-01 09:21:23,193 - Thread-394 - DEBUG - Connected to 127.0.0.1:38686.
+2018-07-01 09:21:23,194 - Thread-394 - DEBUG - Connection to 127.0.0.1:38686 closed.
+2018-07-01 09:21:23,203 - Thread-395 - DEBUG - Connected to 127.0.0.1:38688.
+2018-07-01 09:21:23,204 - Thread-395 - DEBUG - Connection to 127.0.0.1:38688 closed.
+2018-07-01 09:21:23,212 - Thread-396 - DEBUG - Connected to 127.0.0.1:38690.
+2018-07-01 09:21:23,212 - Thread-396 - DEBUG - Connection to 127.0.0.1:38690 closed.
+2018-07-01 09:21:23,220 - Thread-397 - DEBUG - Connected to 127.0.0.1:38692.
+2018-07-01 09:21:23,221 - Thread-397 - DEBUG - Connection to 127.0.0.1:38692 closed.
+2018-07-01 09:21:23,228 - Thread-398 - DEBUG - Connected to 127.0.0.1:38694.
+2018-07-01 09:21:23,229 - Thread-398 - DEBUG - Connection to 127.0.0.1:38694 closed.
+2018-07-01 09:21:23,236 - Thread-399 - DEBUG - Connected to 127.0.0.1:38696.
+2018-07-01 09:21:23,237 - Thread-399 - DEBUG - Connection to 127.0.0.1:38696 closed.
+2018-07-01 09:21:23,244 - Thread-400 - DEBUG - Connected to 127.0.0.1:38698.
+2018-07-01 09:21:23,245 - Thread-400 - DEBUG - Connection to 127.0.0.1:38698 closed.
+2018-07-01 09:21:23,252 - Thread-401 - DEBUG - Connected to 127.0.0.1:38700.
+2018-07-01 09:21:23,254 - Thread-401 - DEBUG - Connection to 127.0.0.1:38700 closed.
+2018-07-01 09:21:23,261 - Thread-402 - DEBUG - Connected to 127.0.0.1:38702.
+2018-07-01 09:21:23,262 - Thread-402 - DEBUG - Connection to 127.0.0.1:38702 closed.
+2018-07-01 09:21:23,268 - Thread-403 - DEBUG - Connected to 127.0.0.1:38704.
+2018-07-01 09:21:23,270 - Thread-403 - DEBUG - Connection to 127.0.0.1:38704 closed.
+2018-07-01 09:21:23,276 - Thread-404 - DEBUG - Connected to 127.0.0.1:38706.
+2018-07-01 09:21:23,277 - Thread-404 - DEBUG - Connection to 127.0.0.1:38706 closed.
+2018-07-01 09:21:23,284 - Thread-405 - DEBUG - Connected to 127.0.0.1:38708.
+2018-07-01 09:21:23,285 - Thread-405 - DEBUG - Connection to 127.0.0.1:38708 closed.
+2018-07-01 09:21:23,300 - Thread-406 - DEBUG - Connected to 127.0.0.1:38710.
+2018-07-01 09:21:23,301 - Thread-406 - DEBUG - Connection to 127.0.0.1:38710 closed.
+2018-07-01 09:21:23,309 - Thread-407 - DEBUG - Connected to 127.0.0.1:38712.
+2018-07-01 09:21:23,310 - Thread-407 - DEBUG - Connection to 127.0.0.1:38712 closed.
+2018-07-01 09:21:23,316 - Thread-408 - DEBUG - Connected to 127.0.0.1:38714.
+2018-07-01 09:21:23,317 - Thread-408 - DEBUG - Connection to 127.0.0.1:38714 closed.
+2018-07-01 09:21:23,324 - Thread-409 - DEBUG - Connected to 127.0.0.1:38716.
+2018-07-01 09:21:23,325 - Thread-409 - DEBUG - Connection to 127.0.0.1:38716 closed.
+2018-07-01 09:21:23,332 - Thread-410 - DEBUG - Connected to 127.0.0.1:38718.
+2018-07-01 09:21:23,334 - Thread-410 - DEBUG - Connection to 127.0.0.1:38718 closed.
+2018-07-01 09:21:23,348 - Thread-411 - DEBUG - Connected to 127.0.0.1:38720.
+2018-07-01 09:21:23,348 - Thread-411 - DEBUG - Connection to 127.0.0.1:38720 closed.
+2018-07-01 09:21:23,356 - Thread-412 - DEBUG - Connected to 127.0.0.1:38722.
+2018-07-01 09:21:23,357 - Thread-412 - DEBUG - Connection to 127.0.0.1:38722 closed.
+2018-07-01 09:21:23,376 - Thread-413 - DEBUG - Connected to 127.0.0.1:38724.
+2018-07-01 09:21:23,377 - Thread-413 - DEBUG - Connection to 127.0.0.1:38724 closed.
+2018-07-01 09:21:23,384 - Thread-414 - DEBUG - Connected to 127.0.0.1:38726.
+2018-07-01 09:21:23,385 - Thread-414 - DEBUG - Connection to 127.0.0.1:38726 closed.
+2018-07-01 09:21:23,392 - Thread-415 - DEBUG - Connected to 127.0.0.1:38728.
+2018-07-01 09:21:23,393 - Thread-415 - DEBUG - Connection to 127.0.0.1:38728 closed.
+2018-07-01 09:21:23,399 - Thread-416 - DEBUG - Connected to 127.0.0.1:38730.
+2018-07-01 09:21:23,400 - Thread-416 - DEBUG - Connection to 127.0.0.1:38730 closed.
+2018-07-01 09:21:23,407 - Thread-417 - DEBUG - Connected to 127.0.0.1:38732.
+2018-07-01 09:21:23,408 - Thread-417 - DEBUG - Connection to 127.0.0.1:38732 closed.
+2018-07-01 09:21:23,428 - Thread-418 - DEBUG - Connected to 127.0.0.1:38734.
+2018-07-01 09:21:23,430 - Thread-418 - DEBUG - Connection to 127.0.0.1:38734 closed.
+2018-07-01 09:21:23,436 - Thread-419 - DEBUG - Connected to 127.0.0.1:38736.
+2018-07-01 09:21:23,437 - Thread-419 - DEBUG - Connection to 127.0.0.1:38736 closed.
+2018-07-01 09:21:23,444 - Thread-420 - DEBUG - Connected to 127.0.0.1:38738.
+2018-07-01 09:21:23,445 - Thread-420 - DEBUG - Connection to 127.0.0.1:38738 closed.
+2018-07-01 09:21:23,452 - Thread-421 - DEBUG - Connected to 127.0.0.1:38740.
+2018-07-01 09:21:23,452 - Thread-421 - DEBUG - Connection to 127.0.0.1:38740 closed.
+2018-07-01 09:21:23,460 - Thread-422 - DEBUG - Connected to 127.0.0.1:38742.
+2018-07-01 09:21:23,461 - Thread-422 - DEBUG - Connection to 127.0.0.1:38742 closed.
+2018-07-01 09:21:23,468 - Thread-423 - DEBUG - Connected to 127.0.0.1:38744.
+2018-07-01 09:21:23,468 - Thread-423 - DEBUG - Connection to 127.0.0.1:38744 closed.
+2018-07-01 09:21:23,480 - Thread-424 - DEBUG - Connected to 127.0.0.1:38746.
+2018-07-01 09:21:23,481 - Thread-424 - DEBUG - Connection to 127.0.0.1:38746 closed.
+2018-07-01 09:21:23,492 - Thread-425 - DEBUG - Connected to 127.0.0.1:38748.
+2018-07-01 09:21:23,493 - Thread-425 - DEBUG - Connection to 127.0.0.1:38748 closed.
+2018-07-01 09:21:23,504 - Thread-426 - DEBUG - Connected to 127.0.0.1:38750.
+2018-07-01 09:21:23,505 - Thread-426 - DEBUG - Connection to 127.0.0.1:38750 closed.
+2018-07-01 09:21:23,512 - Thread-427 - DEBUG - Connected to 127.0.0.1:38752.
+2018-07-01 09:21:23,514 - Thread-427 - DEBUG - Connection to 127.0.0.1:38752 closed.
+2018-07-01 09:21:23,524 - Thread-428 - DEBUG - Connected to 127.0.0.1:38754.
+2018-07-01 09:21:23,524 - Thread-428 - DEBUG - Connection to 127.0.0.1:38754 closed.
+2018-07-01 09:21:23,532 - Thread-429 - DEBUG - Connected to 127.0.0.1:38756.
+2018-07-01 09:21:23,533 - Thread-429 - DEBUG - Connection to 127.0.0.1:38756 closed.
+2018-07-01 09:21:23,540 - Thread-430 - DEBUG - Connected to 127.0.0.1:38758.
+2018-07-01 09:21:23,541 - Thread-430 - DEBUG - Connection to 127.0.0.1:38758 closed.
+2018-07-01 09:21:23,548 - Thread-431 - DEBUG - Connected to 127.0.0.1:38760.
+2018-07-01 09:21:23,549 - Thread-431 - DEBUG - Connection to 127.0.0.1:38760 closed.
+2018-07-01 09:21:23,556 - Thread-432 - DEBUG - Connected to 127.0.0.1:38762.
+2018-07-01 09:21:23,556 - Thread-432 - DEBUG - Connection to 127.0.0.1:38762 closed.
+2018-07-01 09:21:23,563 - Thread-433 - DEBUG - Connected to 127.0.0.1:38764.
+2018-07-01 09:21:23,564 - Thread-433 - DEBUG - Connection to 127.0.0.1:38764 closed.
+2018-07-01 09:21:23,564 - Thread-434 - DEBUG - Connected to 127.0.0.1:38766.
+2018-07-01 09:21:23,564 - Thread-434 - DEBUG - Connection to 127.0.0.1:38766 closed.
+2018-07-01 09:21:23,588 - Thread-435 - DEBUG - Connected to 127.0.0.1:38768.
+2018-07-01 09:21:23,590 - Thread-435 - DEBUG - Connection to 127.0.0.1:38768 closed.
+2018-07-01 09:21:23,597 - Thread-436 - DEBUG - Connected to 127.0.0.1:38770.
+2018-07-01 09:21:23,598 - Thread-436 - DEBUG - Connection to 127.0.0.1:38770 closed.
+2018-07-01 09:21:23,604 - Thread-437 - DEBUG - Connected to 127.0.0.1:38772.
+2018-07-01 09:21:23,605 - Thread-437 - DEBUG - Connection to 127.0.0.1:38772 closed.
+2018-07-01 09:21:23,616 - Thread-438 - DEBUG - Connected to 127.0.0.1:38774.
+2018-07-01 09:21:23,617 - Thread-438 - DEBUG - Connection to 127.0.0.1:38774 closed.
+2018-07-01 09:21:23,636 - Thread-439 - DEBUG - Connected to 127.0.0.1:38776.
+2018-07-01 09:21:23,637 - Thread-439 - DEBUG - Connection to 127.0.0.1:38776 closed.
+2018-07-01 09:21:23,644 - Thread-440 - DEBUG - Connected to 127.0.0.1:38778.
+2018-07-01 09:21:23,645 - Thread-440 - DEBUG - Connection to 127.0.0.1:38778 closed.
+2018-07-01 09:21:23,652 - Thread-441 - DEBUG - Connected to 127.0.0.1:38780.
+2018-07-01 09:21:23,653 - Thread-441 - DEBUG - Connection to 127.0.0.1:38780 closed.
+2018-07-01 09:21:23,660 - Thread-442 - DEBUG - Connected to 127.0.0.1:38782.
+2018-07-01 09:21:23,661 - Thread-442 - DEBUG - Connection to 127.0.0.1:38782 closed.
+2018-07-01 09:21:23,664 - Thread-443 - DEBUG - Connected to 127.0.0.1:38784.
+2018-07-01 09:21:23,664 - Thread-443 - DEBUG - Connection to 127.0.0.1:38784 closed.
+2018-07-01 09:21:23,665 - Thread-444 - DEBUG - Connected to 127.0.0.1:38786.
+2018-07-01 09:21:23,665 - Thread-444 - DEBUG - Connection to 127.0.0.1:38786 closed.
+2018-07-01 09:21:23,666 - Thread-445 - DEBUG - Connected to 127.0.0.1:38788.
+2018-07-01 09:21:23,666 - Thread-445 - DEBUG - Connection to 127.0.0.1:38788 closed.
+2018-07-01 09:21:23,667 - Thread-446 - DEBUG - Connected to 127.0.0.1:38790.
+2018-07-01 09:21:23,667 - Thread-446 - DEBUG - Connection to 127.0.0.1:38790 closed.
+2018-07-01 09:21:23,668 - Thread-447 - DEBUG - Connected to 127.0.0.1:38792.
+2018-07-01 09:21:23,669 - Thread-447 - DEBUG - Connection to 127.0.0.1:38792 closed.
+2018-07-01 09:21:23,676 - Thread-448 - DEBUG - Connected to 127.0.0.1:38794.
+2018-07-01 09:21:23,677 - Thread-448 - DEBUG - Connection to 127.0.0.1:38794 closed.
+2018-07-01 09:21:23,684 - Thread-449 - DEBUG - Connected to 127.0.0.1:38796.
+2018-07-01 09:21:23,685 - Thread-449 - DEBUG - Connection to 127.0.0.1:38796 closed.
+2018-07-01 09:21:23,692 - Thread-450 - DEBUG - Connected to 127.0.0.1:38798.
+2018-07-01 09:21:23,693 - Thread-450 - DEBUG - Connection to 127.0.0.1:38798 closed.
+2018-07-01 09:21:23,700 - Thread-451 - DEBUG - Connected to 127.0.0.1:38800.
+2018-07-01 09:21:23,701 - Thread-451 - DEBUG - Connection to 127.0.0.1:38800 closed.
+2018-07-01 09:21:23,708 - Thread-452 - DEBUG - Connected to 127.0.0.1:38802.
+2018-07-01 09:21:23,709 - Thread-452 - DEBUG - Connection to 127.0.0.1:38802 closed.
+2018-07-01 09:21:23,716 - Thread-453 - DEBUG - Connected to 127.0.0.1:38804.
+2018-07-01 09:21:23,717 - Thread-453 - DEBUG - Connection to 127.0.0.1:38804 closed.
+2018-07-01 09:21:23,724 - Thread-454 - DEBUG - Connected to 127.0.0.1:38806.
+2018-07-01 09:21:23,725 - Thread-454 - DEBUG - Connection to 127.0.0.1:38806 closed.
+2018-07-01 09:21:23,732 - Thread-455 - DEBUG - Connected to 127.0.0.1:38808.
+2018-07-01 09:21:23,733 - Thread-455 - DEBUG - Connection to 127.0.0.1:38808 closed.
+2018-07-01 09:21:23,740 - Thread-456 - DEBUG - Connected to 127.0.0.1:38810.
+2018-07-01 09:21:23,741 - Thread-456 - DEBUG - Connection to 127.0.0.1:38810 closed.
+2018-07-01 09:21:23,748 - Thread-457 - DEBUG - Connected to 127.0.0.1:38812.
+2018-07-01 09:21:23,749 - Thread-457 - DEBUG - Connection to 127.0.0.1:38812 closed.
+2018-07-01 09:21:23,756 - Thread-458 - DEBUG - Connected to 127.0.0.1:38814.
+2018-07-01 09:21:23,757 - Thread-458 - DEBUG - Connection to 127.0.0.1:38814 closed.
+2018-07-01 09:21:23,764 - Thread-459 - DEBUG - Connected to 127.0.0.1:38816.
+2018-07-01 09:21:23,765 - Thread-459 - DEBUG - Connection to 127.0.0.1:38816 closed.
+2018-07-01 09:21:23,772 - Thread-460 - DEBUG - Connected to 127.0.0.1:38818.
+2018-07-01 09:21:23,773 - Thread-460 - DEBUG - Connection to 127.0.0.1:38818 closed.
+2018-07-01 09:21:23,792 - Thread-461 - DEBUG - Connected to 127.0.0.1:38820.
+2018-07-01 09:21:23,793 - Thread-461 - DEBUG - Connection to 127.0.0.1:38820 closed.
+2018-07-01 09:21:23,798 - Thread-462 - DEBUG - Connected to 127.0.0.1:38822.
+2018-07-01 09:21:23,799 - Thread-462 - DEBUG - Connection to 127.0.0.1:38822 closed.
+2018-07-01 09:21:23,840 - Thread-463 - DEBUG - Connected to 127.0.0.1:38824.
+2018-07-01 09:21:23,841 - Thread-463 - DEBUG - Connection to 127.0.0.1:38824 closed.
+2018-07-01 09:21:23,842 - Thread-3 - INFO - Task 3 processed.
+2018-07-01 09:21:23,842 - Thread-3 - INFO - Processing task 9 from job 1...
+2018-07-01 09:21:23,852 - Thread-464 - DEBUG - Connected to 127.0.0.1:38826.
+2018-07-01 09:21:23,895 - Thread-1 - INFO - Task 1 processed.
+2018-07-01 09:21:23,895 - Thread-1 - INFO - Processing task 10 from job 1...
+2018-07-01 09:21:23,896 - Thread-464 - INFO - Received task 19 from 127.0.0.1:38826.
+2018-07-01 09:21:24,021 - Thread-8 - INFO - Task 8 processed.
+2018-07-01 09:21:24,042 - Thread-2 - INFO - Task 2 processed.
+2018-07-01 09:21:24,042 - Thread-7 - INFO - Task 7 processed.
+2018-07-01 09:21:24,042 - Thread-7 - INFO - Processing task 13 from job 1...
+2018-07-01 09:21:24,042 - Thread-8 - INFO - Processing task 11 from job 1...
+2018-07-01 09:21:24,042 - Thread-464 - INFO - Received task 20 from 127.0.0.1:38826.
+2018-07-01 09:21:24,042 - Thread-2 - INFO - Processing task 12 from job 1...
+2018-07-01 09:21:24,042 - Thread-4 - INFO - Task 4 processed.
+2018-07-01 09:21:24,111 - Thread-4 - INFO - Processing task 14 from job 1...
+2018-07-01 09:21:24,112 - Thread-464 - INFO - Received task 21 from 127.0.0.1:38826.
+2018-07-01 09:21:24,101 - Thread-6 - INFO - Task 6 processed.
+2018-07-01 09:21:24,112 - Thread-6 - INFO - Processing task 15 from job 1...
+2018-07-01 09:21:24,076 - Thread-5 - INFO - Task 5 processed.
+2018-07-01 09:21:24,125 - Thread-5 - INFO - Processing task 16 from job 1...
+2018-07-01 09:21:24,152 - Thread-464 - INFO - Received task 22 from 127.0.0.1:38826.
+2018-07-01 09:21:24,197 - Thread-464 - INFO - Received task 23 from 127.0.0.1:38826.
+2018-07-01 09:21:24,240 - Thread-464 - INFO - Received task 24 from 127.0.0.1:38826.
+2018-07-01 09:21:24,284 - Thread-464 - INFO - Received task 25 from 127.0.0.1:38826.
+2018-07-01 09:21:24,328 - Thread-464 - INFO - Received task 26 from 127.0.0.1:38826.
+2018-07-01 09:21:24,329 - Thread-464 - DEBUG - Connection to 127.0.0.1:38826 closed.
+2018-07-01 09:21:24,332 - Thread-465 - DEBUG - Connected to 127.0.0.1:38828.
+2018-07-01 09:21:24,333 - Thread-465 - DEBUG - Connection to 127.0.0.1:38828 closed.
+2018-07-01 09:21:24,340 - Thread-466 - DEBUG - Connected to 127.0.0.1:38830.
+2018-07-01 09:21:24,341 - Thread-466 - DEBUG - Connection to 127.0.0.1:38830 closed.
+2018-07-01 09:21:24,343 - Thread-467 - DEBUG - Connected to 127.0.0.1:38832.
+2018-07-01 09:21:24,344 - Thread-467 - DEBUG - Connection to 127.0.0.1:38832 closed.
+2018-07-01 09:21:24,344 - Thread-468 - DEBUG - Connected to 127.0.0.1:38834.
+2018-07-01 09:21:24,345 - Thread-468 - DEBUG - Connection to 127.0.0.1:38834 closed.
+2018-07-01 09:21:24,345 - Thread-469 - DEBUG - Connected to 127.0.0.1:38836.
+2018-07-01 09:21:24,345 - Thread-469 - DEBUG - Connection to 127.0.0.1:38836 closed.
+2018-07-01 09:21:24,346 - Thread-470 - DEBUG - Connected to 127.0.0.1:38838.
+2018-07-01 09:21:24,346 - Thread-470 - DEBUG - Connection to 127.0.0.1:38838 closed.
+2018-07-01 09:21:24,347 - Thread-471 - DEBUG - Connected to 127.0.0.1:38840.
+2018-07-01 09:21:24,347 - Thread-471 - DEBUG - Connection to 127.0.0.1:38840 closed.
+2018-07-01 09:21:24,347 - Thread-472 - DEBUG - Connected to 127.0.0.1:38842.
+2018-07-01 09:21:24,348 - Thread-472 - DEBUG - Connection to 127.0.0.1:38842 closed.
+2018-07-01 09:21:24,349 - Thread-473 - DEBUG - Connected to 127.0.0.1:38844.
+2018-07-01 09:21:24,350 - Thread-473 - DEBUG - Connection to 127.0.0.1:38844 closed.
+2018-07-01 09:21:24,350 - Thread-474 - DEBUG - Connected to 127.0.0.1:38846.
+2018-07-01 09:21:24,351 - Thread-474 - DEBUG - Connection to 127.0.0.1:38846 closed.
+2018-07-01 09:21:24,351 - Thread-475 - DEBUG - Connected to 127.0.0.1:38848.
+2018-07-01 09:21:24,352 - Thread-475 - DEBUG - Connection to 127.0.0.1:38848 closed.
+2018-07-01 09:21:24,352 - Thread-476 - DEBUG - Connected to 127.0.0.1:38850.
+2018-07-01 09:21:24,353 - Thread-476 - DEBUG - Connection to 127.0.0.1:38850 closed.
+2018-07-01 09:21:24,353 - Thread-477 - DEBUG - Connected to 127.0.0.1:38852.
+2018-07-01 09:21:24,354 - Thread-477 - DEBUG - Connection to 127.0.0.1:38852 closed.
+2018-07-01 09:21:24,354 - Thread-478 - DEBUG - Connected to 127.0.0.1:38854.
+2018-07-01 09:21:24,355 - Thread-478 - DEBUG - Connection to 127.0.0.1:38854 closed.
+2018-07-01 09:21:24,355 - Thread-479 - DEBUG - Connected to 127.0.0.1:38856.
+2018-07-01 09:21:24,356 - Thread-479 - DEBUG - Connection to 127.0.0.1:38856 closed.
+2018-07-01 09:21:24,356 - Thread-480 - DEBUG - Connected to 127.0.0.1:38858.
+2018-07-01 09:21:24,356 - Thread-480 - DEBUG - Connection to 127.0.0.1:38858 closed.
+2018-07-01 09:21:24,357 - Thread-481 - DEBUG - Connected to 127.0.0.1:38860.
+2018-07-01 09:21:24,358 - Thread-481 - DEBUG - Connection to 127.0.0.1:38860 closed.
+2018-07-01 09:21:24,358 - Thread-482 - DEBUG - Connected to 127.0.0.1:38862.
+2018-07-01 09:21:24,359 - Thread-482 - DEBUG - Connection to 127.0.0.1:38862 closed.
+2018-07-01 09:21:24,359 - Thread-483 - DEBUG - Connected to 127.0.0.1:38864.
+2018-07-01 09:21:24,360 - Thread-483 - DEBUG - Connection to 127.0.0.1:38864 closed.
+2018-07-01 09:21:24,364 - Thread-484 - DEBUG - Connected to 127.0.0.1:38866.
+2018-07-01 09:21:24,365 - Thread-484 - DEBUG - Connection to 127.0.0.1:38866 closed.
+2018-07-01 09:21:24,376 - Thread-485 - DEBUG - Connected to 127.0.0.1:38868.
+2018-07-01 09:21:24,377 - Thread-485 - DEBUG - Connection to 127.0.0.1:38868 closed.
+2018-07-01 09:21:24,384 - Thread-486 - DEBUG - Connected to 127.0.0.1:38870.
+2018-07-01 09:21:24,385 - Thread-486 - DEBUG - Connection to 127.0.0.1:38870 closed.
+2018-07-01 09:21:24,392 - Thread-487 - DEBUG - Connected to 127.0.0.1:38872.
+2018-07-01 09:21:24,393 - Thread-487 - DEBUG - Connection to 127.0.0.1:38872 closed.
+2018-07-01 09:21:24,400 - Thread-488 - DEBUG - Connected to 127.0.0.1:38874.
+2018-07-01 09:21:24,401 - Thread-488 - DEBUG - Connection to 127.0.0.1:38874 closed.
+2018-07-01 09:21:24,408 - Thread-489 - DEBUG - Connected to 127.0.0.1:38876.
+2018-07-01 09:21:24,409 - Thread-489 - DEBUG - Connection to 127.0.0.1:38876 closed.
+2018-07-01 09:21:24,416 - Thread-490 - DEBUG - Connected to 127.0.0.1:38878.
+2018-07-01 09:21:24,417 - Thread-490 - DEBUG - Connection to 127.0.0.1:38878 closed.
+2018-07-01 09:21:24,428 - Thread-491 - DEBUG - Connected to 127.0.0.1:38880.
+2018-07-01 09:21:24,429 - Thread-491 - DEBUG - Connection to 127.0.0.1:38880 closed.
+2018-07-01 09:21:24,436 - Thread-492 - DEBUG - Connected to 127.0.0.1:38882.
+2018-07-01 09:21:24,437 - Thread-492 - DEBUG - Connection to 127.0.0.1:38882 closed.
+2018-07-01 09:21:24,444 - Thread-493 - DEBUG - Connected to 127.0.0.1:38884.
+2018-07-01 09:21:24,445 - Thread-493 - DEBUG - Connection to 127.0.0.1:38884 closed.
+2018-07-01 09:21:24,452 - Thread-494 - DEBUG - Connected to 127.0.0.1:38886.
+2018-07-01 09:21:24,453 - Thread-494 - DEBUG - Connection to 127.0.0.1:38886 closed.
+2018-07-01 09:21:24,460 - Thread-495 - DEBUG - Connected to 127.0.0.1:38888.
+2018-07-01 09:21:24,461 - Thread-495 - DEBUG - Connection to 127.0.0.1:38888 closed.
+2018-07-01 09:21:24,468 - Thread-496 - DEBUG - Connected to 127.0.0.1:38890.
+2018-07-01 09:21:24,469 - Thread-496 - DEBUG - Connection to 127.0.0.1:38890 closed.
+2018-07-01 09:21:24,476 - Thread-497 - DEBUG - Connected to 127.0.0.1:38892.
+2018-07-01 09:21:24,477 - Thread-497 - DEBUG - Connection to 127.0.0.1:38892 closed.
+2018-07-01 09:21:24,488 - Thread-498 - DEBUG - Connected to 127.0.0.1:38894.
+2018-07-01 09:21:24,489 - Thread-498 - DEBUG - Connection to 127.0.0.1:38894 closed.
+2018-07-01 09:21:24,496 - Thread-499 - DEBUG - Connected to 127.0.0.1:38896.
+2018-07-01 09:21:24,497 - Thread-499 - DEBUG - Connection to 127.0.0.1:38896 closed.
+2018-07-01 09:21:24,508 - Thread-500 - DEBUG - Connected to 127.0.0.1:38898.
+2018-07-01 09:21:24,509 - Thread-500 - DEBUG - Connection to 127.0.0.1:38898 closed.
+2018-07-01 09:21:24,516 - Thread-501 - DEBUG - Connected to 127.0.0.1:38900.
+2018-07-01 09:21:24,517 - Thread-501 - DEBUG - Connection to 127.0.0.1:38900 closed.
+2018-07-01 09:21:24,524 - Thread-502 - DEBUG - Connected to 127.0.0.1:38902.
+2018-07-01 09:21:24,525 - Thread-502 - DEBUG - Connection to 127.0.0.1:38902 closed.
+2018-07-01 09:21:24,536 - Thread-503 - DEBUG - Connected to 127.0.0.1:38904.
+2018-07-01 09:21:24,537 - Thread-503 - DEBUG - Connection to 127.0.0.1:38904 closed.
+2018-07-01 09:21:24,556 - Thread-504 - DEBUG - Connected to 127.0.0.1:38906.
+2018-07-01 09:21:24,557 - Thread-504 - DEBUG - Connection to 127.0.0.1:38906 closed.
+2018-07-01 09:21:24,568 - Thread-505 - DEBUG - Connected to 127.0.0.1:38908.
+2018-07-01 09:21:24,569 - Thread-505 - DEBUG - Connection to 127.0.0.1:38908 closed.
+2018-07-01 09:21:24,588 - Thread-506 - DEBUG - Connected to 127.0.0.1:38910.
+2018-07-01 09:21:24,589 - Thread-506 - DEBUG - Connection to 127.0.0.1:38910 closed.
+2018-07-01 09:21:24,596 - Thread-507 - DEBUG - Connected to 127.0.0.1:38912.
+2018-07-01 09:21:24,597 - Thread-507 - DEBUG - Connection to 127.0.0.1:38912 closed.
+2018-07-01 09:21:24,608 - Thread-508 - DEBUG - Connected to 127.0.0.1:38914.
+2018-07-01 09:21:24,609 - Thread-508 - DEBUG - Connection to 127.0.0.1:38914 closed.
+2018-07-01 09:21:24,616 - Thread-509 - DEBUG - Connected to 127.0.0.1:38916.
+2018-07-01 09:21:24,617 - Thread-509 - DEBUG - Connection to 127.0.0.1:38916 closed.
+2018-07-01 09:21:24,624 - Thread-510 - DEBUG - Connected to 127.0.0.1:38918.
+2018-07-01 09:21:24,625 - Thread-510 - DEBUG - Connection to 127.0.0.1:38918 closed.
+2018-07-01 09:21:24,632 - Thread-511 - DEBUG - Connected to 127.0.0.1:38920.
+2018-07-01 09:21:24,633 - Thread-511 - DEBUG - Connection to 127.0.0.1:38920 closed.
+2018-07-01 09:21:24,644 - Thread-512 - DEBUG - Connected to 127.0.0.1:38922.
+2018-07-01 09:21:24,645 - Thread-512 - DEBUG - Connection to 127.0.0.1:38922 closed.
+2018-07-01 09:21:24,656 - Thread-513 - DEBUG - Connected to 127.0.0.1:38924.
+2018-07-01 09:21:24,657 - Thread-513 - DEBUG - Connection to 127.0.0.1:38924 closed.
+2018-07-01 09:21:24,668 - Thread-514 - DEBUG - Connected to 127.0.0.1:38926.
+2018-07-01 09:21:24,669 - Thread-514 - DEBUG - Connection to 127.0.0.1:38926 closed.
+2018-07-01 09:21:24,676 - Thread-515 - DEBUG - Connected to 127.0.0.1:38928.
+2018-07-01 09:21:24,677 - Thread-515 - DEBUG - Connection to 127.0.0.1:38928 closed.
+2018-07-01 09:21:24,688 - Thread-516 - DEBUG - Connected to 127.0.0.1:38930.
+2018-07-01 09:21:24,689 - Thread-516 - DEBUG - Connection to 127.0.0.1:38930 closed.
+2018-07-01 09:21:24,708 - Thread-517 - DEBUG - Connected to 127.0.0.1:38932.
+2018-07-01 09:21:24,709 - Thread-517 - DEBUG - Connection to 127.0.0.1:38932 closed.
+2018-07-01 09:21:24,716 - Thread-518 - DEBUG - Connected to 127.0.0.1:38934.
+2018-07-01 09:21:24,717 - Thread-518 - DEBUG - Connection to 127.0.0.1:38934 closed.
+2018-07-01 09:21:24,724 - Thread-519 - DEBUG - Connected to 127.0.0.1:38936.
+2018-07-01 09:21:24,725 - Thread-519 - DEBUG - Connection to 127.0.0.1:38936 closed.
+2018-07-01 09:21:24,732 - Thread-520 - DEBUG - Connected to 127.0.0.1:38938.
+2018-07-01 09:21:24,733 - Thread-520 - DEBUG - Connection to 127.0.0.1:38938 closed.
+2018-07-01 09:21:24,740 - Thread-521 - DEBUG - Connected to 127.0.0.1:38940.
+2018-07-01 09:21:24,741 - Thread-521 - DEBUG - Connection to 127.0.0.1:38940 closed.
+2018-07-01 09:21:24,756 - Thread-522 - DEBUG - Connected to 127.0.0.1:38942.
+2018-07-01 09:21:24,757 - Thread-522 - DEBUG - Connection to 127.0.0.1:38942 closed.
+2018-07-01 09:21:24,764 - Thread-523 - DEBUG - Connected to 127.0.0.1:38944.
+2018-07-01 09:21:24,765 - Thread-523 - DEBUG - Connection to 127.0.0.1:38944 closed.
+2018-07-01 09:21:24,772 - Thread-524 - DEBUG - Connected to 127.0.0.1:38946.
+2018-07-01 09:21:24,773 - Thread-524 - DEBUG - Connection to 127.0.0.1:38946 closed.
+2018-07-01 09:21:24,792 - Thread-525 - DEBUG - Connected to 127.0.0.1:38948.
+2018-07-01 09:21:24,793 - Thread-525 - DEBUG - Connection to 127.0.0.1:38948 closed.
+2018-07-01 09:21:24,808 - Thread-526 - DEBUG - Connected to 127.0.0.1:38950.
+2018-07-01 09:21:24,809 - Thread-526 - DEBUG - Connection to 127.0.0.1:38950 closed.
+2018-07-01 09:21:24,816 - Thread-527 - DEBUG - Connected to 127.0.0.1:38952.
+2018-07-01 09:21:24,817 - Thread-527 - DEBUG - Connection to 127.0.0.1:38952 closed.
+2018-07-01 09:21:24,832 - Thread-528 - DEBUG - Connected to 127.0.0.1:38954.
+2018-07-01 09:21:24,833 - Thread-528 - DEBUG - Connection to 127.0.0.1:38954 closed.
+2018-07-01 09:21:24,840 - Thread-529 - DEBUG - Connected to 127.0.0.1:38956.
+2018-07-01 09:21:24,841 - Thread-529 - DEBUG - Connection to 127.0.0.1:38956 closed.
+2018-07-01 09:21:24,848 - Thread-530 - DEBUG - Connected to 127.0.0.1:38958.
+2018-07-01 09:21:24,849 - Thread-530 - DEBUG - Connection to 127.0.0.1:38958 closed.
+2018-07-01 09:21:24,856 - Thread-531 - DEBUG - Connected to 127.0.0.1:38960.
+2018-07-01 09:21:24,857 - Thread-531 - DEBUG - Connection to 127.0.0.1:38960 closed.
+2018-07-01 09:21:24,864 - Thread-532 - DEBUG - Connected to 127.0.0.1:38962.
+2018-07-01 09:21:24,865 - Thread-532 - DEBUG - Connection to 127.0.0.1:38962 closed.
+2018-07-01 09:21:24,872 - Thread-533 - DEBUG - Connected to 127.0.0.1:38964.
+2018-07-01 09:21:24,873 - Thread-533 - DEBUG - Connection to 127.0.0.1:38964 closed.
+2018-07-01 09:21:24,880 - Thread-534 - DEBUG - Connected to 127.0.0.1:38966.
+2018-07-01 09:21:24,881 - Thread-534 - DEBUG - Connection to 127.0.0.1:38966 closed.
+2018-07-01 09:21:24,888 - Thread-535 - DEBUG - Connected to 127.0.0.1:38968.
+2018-07-01 09:21:24,889 - Thread-535 - DEBUG - Connection to 127.0.0.1:38968 closed.
+2018-07-01 09:21:24,908 - Thread-536 - DEBUG - Connected to 127.0.0.1:38970.
+2018-07-01 09:21:24,909 - Thread-536 - DEBUG - Connection to 127.0.0.1:38970 closed.
+2018-07-01 09:21:24,916 - Thread-537 - DEBUG - Connected to 127.0.0.1:38972.
+2018-07-01 09:21:24,917 - Thread-537 - DEBUG - Connection to 127.0.0.1:38972 closed.
+2018-07-01 09:21:24,924 - Thread-538 - DEBUG - Connected to 127.0.0.1:38974.
+2018-07-01 09:21:24,925 - Thread-538 - DEBUG - Connection to 127.0.0.1:38974 closed.
+2018-07-01 09:21:24,932 - Thread-539 - DEBUG - Connected to 127.0.0.1:38976.
+2018-07-01 09:21:24,933 - Thread-539 - DEBUG - Connection to 127.0.0.1:38976 closed.

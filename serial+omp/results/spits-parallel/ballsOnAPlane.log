@@ -1,0 +1,201 @@
+Using SPITZDIR=/home/lzanotto/SPITZRayTracer/runtime
+Using logan-13622 as UID
+Starting Job...
+Launching Job Manager...
+Spitz log set to log/SPITZ-JM-logan-13622
+Stdout log set to log/STDOUT-JM-logan-13622
+Stderr log set to log/STDERR-JM-logan-13622
+python -u /home/lzanotto/SPITZRayTracer/runtime/jm.py --log=log/SPITZ-JM-logan-13622 --nw=0 --overfill=0 --announce=file --verbose=0 --jobid=123dasilva4 --overfill=2 ../.././bin/RayTracer_spits.so ../../scenes/ballsOnAPlane.scn 1 5 ../.././results/spits-parallel/ballsOnAPlane.tga 128 72
+Launching Task Manager...
+Stdout log set to log/STDOUT-TM-logan-13622
+Stderr log set to log/STDERR-TM-logan-13622
+python -u /home/lzanotto/SPITZRayTracer/runtime/tm.py --log=log/SPITZ-TM-logan-13622 --tmport=0 --announce=cat --nw=0 --overfill=0 --announce=file --verbose=0 --jobid=123dasilva4 --overfill=2 ../.././bin/RayTracer_spits.so ../../scenes/ballsOnAPlane.scn 1 5 ../.././results/spits-parallel/ballsOnAPlane.tga 128 72
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+[JM] Job manager created.
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+266 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 0
+	148 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		79 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		71 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+	130 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		69 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % z X 0
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % x X 1
+		66 | -10000, -10000, -20000 || 10000, 10000, 14 % y X 2
+[WK] Worker created.
+[JM] Task generated for i = .1
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .2
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .3
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .4
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .5
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .6
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .7
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .8
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .9
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .10
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .11
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .12
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .13
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .14
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .15
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .16
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .17
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .18
+[JM] The module will run forever until you add a return false!
+[WK] Task processed.
+[JM] Task generated for i = .19
+[JM] The module will run forever until you add a return false!
+[WK] Task processed.
+[JM] Task generated for i = .20
+[JM] The module will run forever until you add a return false!
+[WK] Task processed.
+[WK] Task processed.
+[WK] Task processed.
+[WK] Task processed.
+[WK] Task processed.
+[WK] Task processed.
+[JM] Task generated for i = .21
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .22
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .23
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .24
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .25
+[JM] The module will run forever until you add a return false!
+[JM] Task generated for i = .26
+[JM] The module will run forever until you add a return false!
